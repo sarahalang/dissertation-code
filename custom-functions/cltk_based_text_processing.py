@@ -70,9 +70,6 @@ def printResultsOfLemmatization(word_list):
         print("Form found: " + form_found + ";\n\t lemma: " + lemma + ";\n\t without marker: "
           + lemma_stripped_of_number + "\n")
 # ------------------------------------------------------------------------------
-# interesting find: persName is not found when lowercased!
-# lemmatization fails with 'saturno'
-# TODO might need jv replacement beforehand...
 
 def lemmatizeAllWordsFromList(word_list):
     """
@@ -176,7 +173,6 @@ def normalizeLatinWordsInNonstandardGlyphs(string):
 
     unicode_normalized_text = unicodedata.normalize('NFKD',string).encode('ascii','ignore')
     new_string = unicode_normalized_text.decode("utf-8")
-    #print("[INFO] Original string: " + original_string + "; unicode-normalized result: " + new_string)
     return new_string
 
 # ------------------------------------------------------------------------------
@@ -231,7 +227,6 @@ def declineWord(word, error_type_context,logger):
         word_list = lemmatizer.lemmatize(word_list)
     except:
         print("Lemmatization error with " + word)
-        #logger.addToLogger(error_type, "WARNING", "lemmatization failed: " + word)
         error_count += 1
 
     decliner = CollatinusDecliner()
@@ -265,7 +260,6 @@ def declineEachWordInList(word_list, error_type_context,logger):
         word_list = lemmatizer.lemmatize(word_list)
     except:
         print("Lemmatization error with " + word)
-        #logger.addToLogger(error_type, "WARNING", "lemmatization failed: " + word)
         error_count += 1
 
     decliner = CollatinusDecliner()

@@ -6,8 +6,6 @@ sys.path.append(os.path.abspath(dir_for_working_code))
 # ------------------------------------------------------------------------------
 
 from ToDosLogger import *
-#from annotation_list_creation_utilities import getContentWordsDict, updateBagOfWordsFromString
-#from helper_functions import *
 from cltk_based_text_processing import stemLemma, getLemmaStrippedOfMarker
 
 # ------------------------------------------------------------------------------
@@ -29,7 +27,6 @@ def displayBowDictEntries(content_words_dict):
         forms_list = the_bow_item[1]
         key = i
         new_bow[key] = count
-        #print(key + ", " + str(count))
     sorted_bow = sorted(new_bow, key=new_bow.get, reverse=True)
     for i in sorted_bow:
         print(i, new_bow[i])
@@ -75,18 +72,6 @@ def createCSVLookupTableFromContentWordsDict(content_words_dict, file_name):
                    word_forms + "," + str(frequency_count) + "\n")
         file.flush()
     file.close()
-
-# ------------------------------------------------------------------------------
-
-
-#cell.sort_values("warnInfoError")
-
-#existing_error_types = self.logs_list["ErrorType"].unique().tolist()
-
-#lookup_table = pd.DataFrame(columns=['lemma', 'concept','stem', 'regex', 'frequency'])
-
-
-
 
 # ------------------------------------------------------------------------------
 # FINIS

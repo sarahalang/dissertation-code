@@ -40,7 +40,7 @@ def getContexts(graph, uri):
             contexts.append(str(o))
     #print("Current contexts for Uri:")
     #print(contexts)
-    return contexts #TODO return list 
+    return contexts #TODO return list
     # TODO creates error -
     # TODO Mercurius example abfangen
 
