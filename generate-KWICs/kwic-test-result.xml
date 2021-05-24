@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?><result><KWIC n="terrae" xml:id="terra-ab978ef" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 0
+                , values after 5 -- 
+
+
+                </debugOutput><TEXT><term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term></TEXT><result/><log/></KWIC><KWIC n="fundo" xml:id="fundus-c3d60ec" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 1
+                , values after 5 --  terrae 
+
+
+                </debugOutput><TEXT><term ana="terra" xml:id="terra-ab978ef"> terrae </term>
+     <term ana="fundus" xml:id="fundus-c3d60ec"> fundo </term> depromptum, aut aliud <lb/> haud
+      <term ana="convenio" xml:id="convenio-570aac5"> conveniens </term> in ejus <term ana="locus" xml:id="locus-03480ea"> locum </term> substituat. Est autem ex <lb/> eo genere, quod Saturno,
+     Apollini, Aesculapio &amp; <term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term></TEXT><result/><log/></KWIC><KWIC n="conveniens" xml:id="convenio-570aac5" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 2
+                , values after 5 --  terrae 
+
+
+                </debugOutput><TEXT><term ana="terra" xml:id="terra-ab978ef"> terrae </term>
+     <term ana="fundus" xml:id="fundus-c3d60ec"> fundo </term> depromptum, aut aliud <lb/> haud
+      <term ana="convenio" xml:id="convenio-570aac5"> conveniens </term> in ejus <term ana="locus" xml:id="locus-03480ea"> locum </term> substituat. Est autem ex <lb/> eo genere, quod Saturno,
+     Apollini, Aesculapio &amp; <term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term></TEXT><result/><log/></KWIC><KWIC n="locum" xml:id="locus-03480ea" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 3
+                , values after 5 --  terrae 
+
+
+                </debugOutput><TEXT><term ana="terra" xml:id="terra-ab978ef"> terrae </term>
+     <term ana="fundus" xml:id="fundus-c3d60ec"> fundo </term> depromptum, aut aliud <lb/> haud
+      <term ana="convenio" xml:id="convenio-570aac5"> conveniens </term> in ejus <term ana="locus" xml:id="locus-03480ea"> locum </term> substituat. Est autem ex <lb/> eo genere, quod Saturno,
+     Apollini, Aesculapio &amp; <term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term></TEXT><result/><log/></KWIC><KWIC n="Mercurio" xml:id="mercurius-0fc7bf3" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 4
+                , values after 5 --  terrae 
+
+
+                </debugOutput><TEXT><term ana="terra" xml:id="terra-ab978ef"> terrae </term>
+     <term ana="fundus" xml:id="fundus-c3d60ec"> fundo </term> depromptum, aut aliud <lb/> haud
+      <term ana="convenio" xml:id="convenio-570aac5"> conveniens </term> in ejus <term ana="locus" xml:id="locus-03480ea"> locum </term> substituat. Est autem ex <lb/> eo genere, quod Saturno,
+     Apollini, Aesculapio &amp; <term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term></TEXT><result/><log/></KWIC><KWIC n="Cadmi" xml:id="cadmi-228f722"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  terrae  terrae 
+
+
+                </debugOutput><TEXT><term ana="terra" xml:id="terra-ab978ef"> terrae </term>
+     <term ana="fundus" xml:id="fundus-c3d60ec"> fundo </term> depromptum, aut aliud <lb/> haud
+      <term ana="convenio" xml:id="convenio-570aac5"> conveniens </term> in ejus <term ana="locus" xml:id="locus-03480ea"> locum </term> substituat. Est autem ex <lb/> eo genere, quod Saturno,
+     Apollini, Aesculapio &amp; <term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term></TEXT><result/><log/></KWIC><KWIC n="vellus" xml:id="vellus-4a869b0"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  fundo  fundo 
+
+
+                </debugOutput><TEXT><term ana="fundus" xml:id="fundus-c3d60ec"> fundo </term> depromptum, aut aliud <lb/> haud
+      <term ana="convenio" xml:id="convenio-570aac5"> conveniens </term> in ejus <term ana="locus" xml:id="locus-03480ea"> locum </term> substituat. Est autem ex <lb/> eo genere, quod Saturno,
+     Apollini, Aesculapio &amp; <term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term></TEXT><result/><log/></KWIC><KWIC n="aureum" xml:id="aurum-f2291da"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  conveniens  conveniens 
+
+
+                </debugOutput><TEXT><term ana="convenio" xml:id="convenio-570aac5"> conveniens </term> in ejus <term ana="locus" xml:id="locus-03480ea"> locum </term> substituat. Est autem ex <lb/> eo genere, quod Saturno,
+     Apollini, Aesculapio &amp; <term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term></TEXT><result/><log/></KWIC><KWIC n="pomis" xml:id="pomum-244638c"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  locum  locum 
+
+
+                </debugOutput><TEXT><term ana="locus" xml:id="locus-03480ea"> locum </term> substituat. Est autem ex <lb/> eo genere, quod Saturno,
+     Apollini, Aesculapio &amp; <term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term></TEXT><result/><log/></KWIC><KWIC n="aureis" xml:id="aurum-f2291da"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  Mercurio  Mercurio 
+
+
+                </debugOutput><TEXT><term ana="mercurius" xml:id="mercurius-0fc7bf3"> Mercurio </term>
+     <lb/> asscribitur, quod <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term></TEXT><result/><log/></KWIC><KWIC n="Hesperidum" xml:id="hesperidum-f501064"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  Cadmi  Cadmi 
+
+
+                </debugOutput><TEXT><term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term> socios
+     interfecit, &amp; ab eo interfe¬ <lb/> ctum, quod <term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term></TEXT><result/><log/></KWIC><KWIC n="hortis" xml:id="hortus-f6088a2"><debugOutput> variable test:
+                values before 5
+                , values after 5 -- 
+      vellus 
+      vellus 
+
+
+                </debugOutput><TEXT><term ana="vellus" xml:id="vellus-4a869b0">
+      vellus </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term></TEXT><result/><log/></KWIC><KWIC n="boves" xml:id="bos-aca8c2c"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  aureum  aureum 
+
+
+                </debugOutput><TEXT><term ana="aurum" xml:id="aurum-f2291da"> aureum </term> observavit, quod <term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term></TEXT><result/><log/></KWIC><KWIC n="Typhonis" xml:id="typhus-bb4644f"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  pomis  pomis 
+
+
+                </debugOutput><TEXT><term ana="pomum" xml:id="pomum-244638c"> pomis </term>
+     <term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term></TEXT><result/><log/></KWIC><KWIC n="Saturno" xml:id="saturnus-991f949"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  aureis  aureis 
+
+
+                </debugOutput><TEXT><term ana="aurum" xml:id="aurum-f2291da"> aureis </term>
+     <lb/>
+     <term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term></TEXT><result/><log/></KWIC><KWIC n="caudam" xml:id="cauda-526250c"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  Hesperidum  Hesperidum 
+
+
+                </debugOutput><TEXT><term ana="hesperidum" xml:id="hesperidum-f501064"> Hesperidum </term>
+     <term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term></TEXT><result/><log/></KWIC><KWIC n="tempus" xml:id="tempus-d2408b8"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  hortis  hortis 
+
+
+                </debugOutput><TEXT><term ana="hortus" xml:id="hortus-f6088a2"> hortis </term> invigilavit, quod Geryonis Tricorpo¬
+     <lb/> ris <term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term></TEXT><result/><log/></KWIC><KWIC n="cauda" xml:id="cauda-526250c"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  boves  boves 
+
+
+                </debugOutput><TEXT><term ana="bos" xml:id="bos-aca8c2c"> boves </term> puniceos custodivit, <term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term></TEXT><result/><log/></KWIC><KWIC n="medicinae" xml:id="medicina-d9cf5a3"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  Typhonis  Typhonis 
+
+
+                </debugOutput><TEXT><term ana="typhus" xml:id="typhus-bb4644f"> Typhonis </term> &amp; Echidnae sobo¬ <lb/> les: <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term></TEXT><result/><log/></KWIC><KWIC n="Draco" xml:id="draco-0733159"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  Saturno  Saturno 
+
+
+                </debugOutput><TEXT><term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term> appropriatur dum capite <term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term></TEXT><result/><log/></KWIC><KWIC n="subjectum" xml:id="subjectus-034e65c"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  caudam  caudam 
+
+
+                </debugOutput><TEXT><term ana="cauda" xml:id="cauda-526250c"> caudam </term> apprehen¬ <lb/> dit, non quasi <term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term></TEXT><result/><log/></KWIC><KWIC n="masculi" xml:id="masculus-5556ad4"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  tempus  tempus 
+
+
+                </debugOutput><TEXT><term ana="tempus" xml:id="tempus-d2408b8"> tempus </term> significet, sed quod in se redeat, &amp;
+     ex <lb/> duobus, nempe capite &amp; <term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term></TEXT><result/><log/></KWIC><KWIC n="foeminae" xml:id="foemina-54d4e7f"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  cauda  cauda 
+
+
+                </debugOutput><TEXT><term ana="cauda" xml:id="cauda-526250c"> cauda </term>
+     unum quid fiat: Appollini <lb/> affingitur, quia ab eo sagitis occisus putatur Typhon, qui
+     <lb/> putrefactus Python dicitur: Aesculapio, quia <term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term></TEXT><result/><log/></KWIC><KWIC n="duplicem" xml:id="duplex-f220839"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  medicinae  medicinae 
+
+
+                </debugOutput><TEXT><term ana="medicina" xml:id="medicina-d9cf5a3"> medicinae </term> re¬ <lb/> vivificativae &amp; juventam
+     restaurantis <term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term></TEXT><result/><log/></KWIC><KWIC n="substantiam" xml:id="substantia-24b731b"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  Draco  Draco 
+
+
+                </debugOutput><TEXT><term ana="draco" xml:id="draco-0733159"> Draco </term> symbolum <lb/> est &amp;
+      <term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term></TEXT><result/><log/></KWIC><KWIC n="durum" xml:id="durus-d6f694f"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  subjectum  subjectum 
+
+
+                </debugOutput><TEXT><term ana="subjectus" xml:id="subjectus-034e65c"> subjectum </term> proprium Mercurio, cujus
+     caduceo <lb/> appingitur duplici, <term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term> &amp; <term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term></TEXT><result/><log/></KWIC><KWIC n="Cadmi" xml:id="cadmi-228f722"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  masculi
+      masculi
+     
+
+
+                </debugOutput><TEXT><term ana="masculus" xml:id="masculus-5556ad4"> masculi
+     </term><term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term></TEXT><result/><log/></KWIC><KWIC n="Cadmo" xml:id="cadmi-228f722"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  foeminae  foeminae 
+
+
+                </debugOutput><TEXT><term ana="foemina" xml:id="foemina-54d4e7f"> foeminae </term> forma, quia con¬
+     <lb/> tituit <term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term></TEXT><result/><log/></KWIC><KWIC n="draconem" xml:id="draco-0733159"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  duplicem  duplicem 
+
+
+                </debugOutput><TEXT><term ana="duplex" xml:id="duplex-f220839"> duplicem </term> Mercurialem <term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term></TEXT><result/><log/></KWIC><KWIC n="lucem" xml:id="lux-86eb0c9"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  substantiam  substantiam 
+
+
+                </debugOutput><TEXT><term ana="substantia" xml:id="substantia-24b731b"> substantiam </term> Hermaphro¬ <lb/> dyticam
+     contrariarum operationum, nempe quod <term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term></TEXT><result/><log/></KWIC><KWIC n="clarissimam" xml:id="clarus-d8af7a5"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  durum  durum 
+
+
+                </debugOutput><TEXT><term ana="durus" xml:id="durus-d6f694f"> durum </term>
+     <lb/> mollificet &amp; molle induret: <term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term></TEXT><result/><log/></KWIC><KWIC n="Saturni" xml:id="saturnus-991f949"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  Cadmi  Cadmi 
+
+
+                </debugOutput><TEXT><term ana="cadmi" xml:id="cadmi-228f722"> Cadmi </term>
+     socios interfecit, quia <lb/> idem sunt re, quod hic elephas, &amp; à <term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term>
+     <term ana="humanus" xml:id="humanus-a672743"> humano </term></TEXT><result/><log/></KWIC><KWIC n="substantias" xml:id="substantia-24b731b"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  Cadmo  Cadmo 
+
+
+                </debugOutput><TEXT><term ana="cadmi" xml:id="cadmi-228f722"> Cadmo </term> interficitur vi¬ <lb/> te versâ, quia elephas <term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term>
+     <term ana="humanus" xml:id="humanus-a672743"> humano </term>
+     <term ana="interior" xml:id="interior-4553612"> interius </term></TEXT><result/><log/></KWIC><KWIC n="Saturno" xml:id="saturnus-991f949"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  draconem  draconem 
+
+
+                </debugOutput><TEXT><term ana="draco" xml:id="draco-0733159"> draconem </term> moriens, occidit. Reliqua <lb/> omnia, ut
+     etiam jam dicta, petantur ex nostris Hierogly¬ <lb/> phicis, ulterius ibidem explicata, quae
+      <term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term>
+     <term ana="humanus" xml:id="humanus-a672743"> humano </term>
+     <term ana="interior" xml:id="interior-4553612"> interius </term> assummendas plus <lb/> noxae,
+     quam <term ana="utilitas" xml:id="utilitas-1d6016f"> utilitatis </term></TEXT><result/><log/></KWIC><KWIC n="productas" xml:id="produco-92e4dcb"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  lucem  lucem 
+
+
+                </debugOutput><TEXT><term ana="lux" xml:id="lux-86eb0c9"> lucem </term> hisce dabunt <lb/>
+     <term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term>
+     <term ana="humanus" xml:id="humanus-a672743"> humano </term>
+     <term ana="interior" xml:id="interior-4553612"> interius </term> assummendas plus <lb/> noxae,
+     quam <term ana="utilitas" xml:id="utilitas-1d6016f"> utilitatis </term> allaturas, cum eaedem
+     inter <term ana="venenum" xml:id="venenum-ddb42dc"> venena </term></TEXT><result/><log/></KWIC><KWIC n="corpori" xml:id="corpus-9585378"><debugOutput> variable test:
+                values before 5
+                , values after 5 --  clarissimam  clarissimam 
+
+
+                </debugOutput><TEXT><term ana="clarus" xml:id="clarus-d8af7a5"> clarissimam </term>
+     <lb/>
+     <head> De III. Usu <term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term> ad
+      Medicinam. </head>
+     <lb/> Si consideremus jam <term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term>
+     <term ana="humanus" xml:id="humanus-a672743"> humano </term>
+     <term ana="interior" xml:id="interior-4553612"> interius </term> assummendas plus <lb/> noxae,
+     quam <term ana="utilitas" xml:id="utilitas-1d6016f"> utilitatis </term> allaturas, cum eaedem
+     inter <term ana="venenum" xml:id="venenum-ddb42dc"> venena </term>
+     <lb/> potiùs, quam <term ana="medicamentum" xml:id="medicamentum-50d92de"> medicamenta </term></TEXT><result/><log/></KWIC><KWIC n="humano" xml:id="humanus-a672743" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 5
+                , values after 4 --  Saturni  substantias
+     
+
+
+                </debugOutput><TEXT><term ana="saturnus" xml:id="saturnus-991f949"> Saturni </term><term ana="medicamentum" xml:id="medicamentum-50d92de"> medicamenta </term></TEXT><result/><log/></KWIC><KWIC n="interius" xml:id="interior-4553612" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 5
+                , values after 3 --  substantias
+      productas 
+
+
+                </debugOutput><TEXT><term ana="substantia" xml:id="substantia-24b731b"> substantias
+     </term> ex <term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term>
+     <term ana="humanus" xml:id="humanus-a672743"> humano </term>
+     <term ana="interior" xml:id="interior-4553612"> interius </term> assummendas plus <lb/> noxae,
+     quam <term ana="utilitas" xml:id="utilitas-1d6016f"> utilitatis </term> allaturas, cum eaedem
+     inter <term ana="venenum" xml:id="venenum-ddb42dc"> venena </term>
+     <lb/> potiùs, quam <term ana="medicamentum" xml:id="medicamentum-50d92de"> medicamenta </term></TEXT><result/><log/></KWIC><KWIC n="utilitatis" xml:id="utilitas-1d6016f" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 5
+                , values after 2 --  Saturno  humano 
+
+
+                </debugOutput><TEXT><term ana="saturnus" xml:id="saturnus-991f949"> Saturno </term>
+     <term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term>
+     <term ana="humanus" xml:id="humanus-a672743"> humano </term>
+     <term ana="interior" xml:id="interior-4553612"> interius </term> assummendas plus <lb/> noxae,
+     quam <term ana="utilitas" xml:id="utilitas-1d6016f"> utilitatis </term> allaturas, cum eaedem
+     inter <term ana="venenum" xml:id="venenum-ddb42dc"> venena </term>
+     <lb/> potiùs, quam <term ana="medicamentum" xml:id="medicamentum-50d92de"> medicamenta </term></TEXT><result/><log/></KWIC><KWIC n="venena" xml:id="venenum-ddb42dc" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 5
+                , values after 1 --  productas  utilitatis 
+
+
+                </debugOutput><TEXT><term ana="produco" xml:id="produco-92e4dcb"> productas </term>
+     <lb/> ut sunt lythargyrium, cerusa, minium &amp; ejusmodi, animad¬ <lb/> vertemus eas <term ana="corpus" xml:id="corpus-9585378"> corpori </term>
+     <term ana="humanus" xml:id="humanus-a672743"> humano </term>
+     <term ana="interior" xml:id="interior-4553612"> interius </term> assummendas plus <lb/> noxae,
+     quam <term ana="utilitas" xml:id="utilitas-1d6016f"> utilitatis </term> allaturas, cum eaedem
+     inter <term ana="venenum" xml:id="venenum-ddb42dc"> venena </term>
+     <lb/> potiùs, quam <term ana="medicamentum" xml:id="medicamentum-50d92de"> medicamenta </term></TEXT><result/><log/></KWIC><KWIC n="medicamenta" xml:id="medicamentum-50d92de" ana="incomplete-kwic"><debugOutput> variable test:
+                values before 5
+                , values after 0 --  corpori 
+
+
+                </debugOutput><TEXT><term ana="corpus" xml:id="corpus-9585378"> corpori </term></TEXT><result/><log/></KWIC></result>

@@ -1,0 +1,2734 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+    @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+    @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+    @prefix owl: <http://www.w3.org/2002/07/owl#> .
+    @prefix dct: <http://purl.org/dc/terms/> .
+    @prefix foaf: <http://xmlns.com/foaf/0.1/> .
+    @prefix alchem: <https://glossa.uni-graz.at/context:alchem/> .
+    @prefix lat: <https://glossa.uni-graz.at/context:alchem/> .
+    @prefix : <http://www.example.com/1/> .
+
+
+    alchem:references a rdf:Property .
+
+
+    lat:aes rdf:type skos:Concept;
+  skos:prefLabel "aes"@la;
+  alchem:references alchem:aes .
+
+lat:Africa rdf:type skos:Concept;
+  skos:prefLabel "Africa"@la;
+  alchem:references alchem:Africa .
+
+lat:Arabs rdf:type skos:Concept;
+  skos:prefLabel "Arabs"@la;
+  alchem:references alchem:Arabs .
+
+lat:aceo rdf:type skos:Concept;
+  skos:prefLabel "aceo"@la;
+  alchem:references alchem:aceo .
+
+lat:achilles rdf:type skos:Concept;
+  skos:prefLabel "achilles"@la;
+  alchem:references alchem:achilles .
+
+lat:actio rdf:type skos:Concept;
+  skos:prefLabel "actio"@la;
+  alchem:references alchem:actio .
+
+lat:addo rdf:type skos:Concept;
+  skos:prefLabel "addo"@la;
+  alchem:references alchem:addo .
+
+lat:adduco rdf:type skos:Concept;
+  skos:prefLabel "adduco"@la;
+  alchem:references alchem:adduco .
+
+lat:Adnois rdf:type skos:Concept;
+  skos:prefLabel "Adnois"@la;
+  alchem:references alchem:Adonis .
+
+lat:aeger rdf:type skos:Concept;
+  skos:prefLabel "aeger"@la;
+  alchem:references alchem:aeger .
+
+lat:Aegyptus rdf:type skos:Concept;
+  skos:prefLabel "Aegyptus"@la;
+  alchem:references alchem:Aegyptus .
+
+lat:aenigma rdf:type skos:Concept;
+  skos:prefLabel "aenigma"@la;
+  alchem:references alchem:aenigma .
+
+lat:aequalis rdf:type skos:Concept;
+  skos:prefLabel "aequalis"@la;
+  alchem:references alchem:aequalis .
+
+lat:aequatio rdf:type skos:Concept;
+  skos:prefLabel "aequatio"@la;
+  alchem:references alchem:aequatio .
+
+lat:aequus rdf:type skos:Concept;
+  skos:prefLabel "aequus"@la;
+  alchem:references alchem:aequus .
+
+lat:aer rdf:type skos:Concept;
+  skos:prefLabel "aer"@la;
+  alchem:references alchem:aer .
+
+lat:aestas rdf:type skos:Concept;
+  skos:prefLabel "aestas"@la;
+  alchem:references alchem:aestas .
+
+lat:aestus rdf:type skos:Concept;
+  skos:prefLabel "aestus"@la;
+  alchem:references alchem:aestus .
+
+lat:aetas rdf:type skos:Concept;
+  skos:prefLabel "aetas"@la;
+  alchem:references alchem:aetas .
+
+lat:aeternus rdf:type skos:Concept;
+  skos:prefLabel "aeternus"@la;
+  alchem:references alchem:aeternus .
+
+lat:affectus rdf:type skos:Concept;
+  skos:prefLabel "affectus"@la;
+  alchem:references alchem:affectus .
+
+lat:affirmatiua rdf:type skos:Concept;
+  skos:prefLabel "affirmatiua"@la;
+  alchem:references alchem:affirmatiua .
+
+lat:ager rdf:type skos:Concept;
+  skos:prefLabel "ager"@la;
+  alchem:references alchem:ager .
+
+lat:albertus rdf:type skos:Concept;
+  skos:prefLabel "albertus"@la;
+  alchem:references alchem:albertus .
+
+lat:albus rdf:type skos:Concept;
+  skos:prefLabel "albus"@la;
+  alchem:references alchem:albus .
+
+lat:alexander rdf:type skos:Concept;
+  skos:prefLabel "alexander"@la;
+  alchem:references alchem:alexander .
+
+lat:allegoria rdf:type skos:Concept;
+  skos:prefLabel "allegoria"@la;
+  alchem:references alchem:allegoria .
+
+lat:allegoricus rdf:type skos:Concept;
+  skos:prefLabel "allegoricus"@la;
+  alchem:references alchem:allegoria .
+
+lat:amicus rdf:type skos:Concept;
+  skos:prefLabel "amicus"@la;
+  alchem:references alchem:amicus .
+
+lat:amor rdf:type skos:Concept;
+  skos:prefLabel "amor"@la;
+  alchem:references alchem:amor .
+
+lat:anaxagoras rdf:type skos:Concept;
+  skos:prefLabel "anaxagoras"@la;
+  alchem:references alchem:anaxagoras .
+
+lat:anglia rdf:type skos:Concept;
+  skos:prefLabel "anglia"@la;
+  alchem:references alchem:anglia .
+
+lat:anima rdf:type skos:Concept;
+  skos:prefLabel "anima"@la;
+  alchem:references alchem:anima .
+
+lat:animal rdf:type skos:Concept;
+  skos:prefLabel "animal"@la;
+  alchem:references alchem:animal .
+
+lat:animalis rdf:type skos:Concept;
+  skos:prefLabel "animalis"@la;
+  alchem:references alchem:animal .
+
+lat:animus rdf:type skos:Concept;
+  skos:prefLabel "animus"@la;
+  alchem:references alchem:animus .
+
+lat:annus rdf:type skos:Concept;
+  skos:prefLabel "annus"@la;
+  alchem:references alchem:annus .
+
+lat:antimonium rdf:type skos:Concept;
+  skos:prefLabel "antimonium"@la;
+  alchem:references alchem:antimonium .
+
+lat:antique rdf:type skos:Concept;
+  skos:prefLabel "antique"@la;
+  alchem:references alchem:antique .
+
+lat:antiquus rdf:type skos:Concept;
+  skos:prefLabel "antiquus"@la;
+  alchem:references alchem:antiquus .
+
+lat:anus rdf:type skos:Concept;
+  skos:prefLabel "anus"@la;
+  alchem:references alchem:anus .
+
+lat:apex rdf:type skos:Concept;
+  skos:prefLabel "apex"@la;
+  alchem:references alchem:apex .
+
+lat:apis rdf:type skos:Concept;
+  skos:prefLabel "apis"@la;
+  alchem:references alchem:apis .
+
+lat:apollo rdf:type skos:Concept;
+  skos:prefLabel "apollo"@la;
+  alchem:references alchem:apollo .
+
+lat:appeto rdf:type skos:Concept;
+  skos:prefLabel "appeto"@la;
+  alchem:references alchem:appeto .
+
+lat:aqua rdf:type skos:Concept;
+  skos:prefLabel "aqua"@la;
+  alchem:references alchem:aqua .
+
+lat:aquila rdf:type skos:Concept;
+  skos:prefLabel "aquila"@la;
+  alchem:references alchem:aquila .
+
+lat:arabia rdf:type skos:Concept;
+  skos:prefLabel "arabia"@la;
+  alchem:references alchem:arabia .
+
+lat:arbiter rdf:type skos:Concept;
+  skos:prefLabel "arbiter"@la;
+  alchem:references alchem:arbiter .
+
+lat:arbitrium rdf:type skos:Concept;
+  skos:prefLabel "arbitrium"@la;
+  alchem:references alchem:arbitrium .
+
+lat:arbor rdf:type skos:Concept;
+  skos:prefLabel "arbor"@la;
+  alchem:references alchem:arbor .
+
+lat:arcanus rdf:type skos:Concept;
+  skos:prefLabel "arcanus"@la;
+  alchem:references alchem:arcanum .
+
+lat:argentum rdf:type skos:Concept;
+  skos:prefLabel "argentum"@la;
+  alchem:references alchem:argentum .
+
+lat:argus rdf:type skos:Concept;
+  skos:prefLabel "argus"@la;
+  alchem:references alchem:argus .
+
+lat:argumentum rdf:type skos:Concept;
+  skos:prefLabel "argumentum"@la;
+  alchem:references alchem:argumentum .
+
+lat:aristoteles rdf:type skos:Concept;
+  skos:prefLabel "aristoteles"@la;
+  alchem:references alchem:aristoteles .
+
+lat:arnoldus rdf:type skos:Concept;
+  skos:prefLabel "arnoldus"@la;
+  alchem:references alchem:arnoldus .
+
+lat:ars rdf:type skos:Concept;
+  skos:prefLabel "ars"@la;
+  alchem:references alchem:ars .
+
+lat:articulus rdf:type skos:Concept;
+  skos:prefLabel "articulus"@la;
+  alchem:references alchem:articulus .
+
+lat:artifex rdf:type skos:Concept;
+  skos:prefLabel "artifex"@la;
+  alchem:references alchem:artifex .
+
+lat:artificium rdf:type skos:Concept;
+  skos:prefLabel "artificium"@la;
+  alchem:references alchem:artificium .
+
+lat:ascensus rdf:type skos:Concept;
+  skos:prefLabel "ascensus"@la;
+  alchem:references alchem:ascensus .
+
+lat:aspicio rdf:type skos:Concept;
+  skos:prefLabel "aspicio"@la;
+  alchem:references alchem:aspicio .
+
+lat:atalanta rdf:type skos:Concept;
+  skos:prefLabel "atalanta"@la;
+  alchem:references alchem:atalanta .
+
+lat:athenis rdf:type skos:Concept;
+  skos:prefLabel "athenis"@la;
+  alchem:references alchem:athenis .
+
+lat:auditio rdf:type skos:Concept;
+  skos:prefLabel "auditio"@la;
+  alchem:references alchem:auditio .
+
+lat:auicenna rdf:type skos:Concept;
+  skos:prefLabel "auicenna"@la;
+  alchem:references alchem:auicenna .
+
+lat:aureus rdf:type skos:Concept;
+  skos:prefLabel "aureus"@la;
+  alchem:references alchem:aurum .
+
+lat:auris rdf:type skos:Concept;
+  skos:prefLabel "auris"@la;
+  alchem:references alchem:auris .
+
+lat:auro rdf:type skos:Concept;
+  skos:prefLabel "auro"@la;
+  alchem:references alchem:aurum .
+
+lat:author rdf:type skos:Concept;
+  skos:prefLabel "author"@la;
+  alchem:references alchem:author .
+
+lat:authoritate rdf:type skos:Concept;
+  skos:prefLabel "authoritate"@la;
+  alchem:references alchem:authoritate .
+
+lat:authoritatem rdf:type skos:Concept;
+  skos:prefLabel "authoritatem"@la;
+  alchem:references alchem:authoritatem .
+
+lat:avis rdf:type skos:Concept;
+  skos:prefLabel "avis"@la;
+  alchem:references alchem:avis .
+
+lat:axiomata rdf:type skos:Concept;
+  skos:prefLabel "axiomata"@la;
+  alchem:references alchem:axiomata .
+
+lat:bacchus rdf:type skos:Concept;
+  skos:prefLabel "bacchus"@la;
+  alchem:references alchem:bacchus .
+
+lat:basilius rdf:type skos:Concept;
+  skos:prefLabel "basilius"@la;
+  alchem:references alchem:basilius .
+
+lat:beia rdf:type skos:Concept;
+  skos:prefLabel "beia"@la;
+  alchem:references alchem:beia .
+
+lat:bernhardus rdf:type skos:Concept;
+  skos:prefLabel "bernhardus"@la;
+  alchem:references alchem:bernhardus .
+
+lat:bilis rdf:type skos:Concept;
+  skos:prefLabel "bilis"@la;
+  alchem:references alchem:bilis .
+
+lat:bini rdf:type skos:Concept;
+  skos:prefLabel "bini"@la;
+  alchem:references alchem:bini .
+
+lat:bis rdf:type skos:Concept;
+  skos:prefLabel "bis"@la;
+  alchem:references alchem:bis .
+
+lat:bonus rdf:type skos:Concept;
+  skos:prefLabel "bonus"@la;
+  alchem:references alchem:bonus .
+
+lat:bos rdf:type skos:Concept;
+  skos:prefLabel "bos"@la;
+  alchem:references alchem:bos .
+
+lat:brachmanum rdf:type skos:Concept;
+  skos:prefLabel "brachmanum"@la;
+  alchem:references alchem:brachmanum .
+
+lat:bufo rdf:type skos:Concept;
+  skos:prefLabel "bufo"@la;
+  alchem:references alchem:bufo .
+
+lat:cadaver rdf:type skos:Concept;
+  skos:prefLabel "cadaver"@la;
+  alchem:references alchem:cadaver .
+
+lat:cadmi rdf:type skos:Concept;
+  skos:prefLabel "cadmi"@la;
+  alchem:references alchem:cadmi .
+
+lat:caelum rdf:type skos:Concept;
+  skos:prefLabel "caelum"@la;
+  alchem:references alchem:caelum .
+
+lat:caesar rdf:type skos:Concept;
+  skos:prefLabel "caesar"@la;
+  alchem:references alchem:caesar .
+
+lat:calid rdf:type skos:Concept;
+  skos:prefLabel "calid"@la;
+  alchem:references alchem:calid .
+
+lat:caliditatis rdf:type skos:Concept;
+  skos:prefLabel "caliditatis"@la;
+  alchem:references alchem:caliditatis .
+
+lat:calidum rdf:type skos:Concept;
+  skos:prefLabel "calidum"@la;
+  alchem:references alchem:calidum .
+
+lat:calidus rdf:type skos:Concept;
+  skos:prefLabel "calidus"@la;
+  alchem:references alchem:calidus .
+
+lat:calor rdf:type skos:Concept;
+  skos:prefLabel "calor"@la;
+  alchem:references alchem:calor .
+
+lat:calumnia rdf:type skos:Concept;
+  skos:prefLabel "calumnia"@la;
+  alchem:references alchem:calumnia .
+
+lat:calumniator rdf:type skos:Concept;
+  skos:prefLabel "calumniator"@la;
+  alchem:references alchem:calumniator .
+
+lat:carmen rdf:type skos:Concept;
+  skos:prefLabel "carmen"@la;
+  alchem:references alchem:carmen .
+
+lat:caro rdf:type skos:Concept;
+  skos:prefLabel "caro"@la;
+  alchem:references alchem:caro .
+
+lat:carolus rdf:type skos:Concept;
+  skos:prefLabel "carolus"@la;
+  alchem:references alchem:carolus .
+
+lat:cauda rdf:type skos:Concept;
+  skos:prefLabel "cauda"@la;
+  alchem:references alchem:cauda .
+
+lat:causa rdf:type skos:Concept;
+  skos:prefLabel "causa"@la;
+  alchem:references alchem:causa .
+
+lat:celeritas rdf:type skos:Concept;
+  skos:prefLabel "celeritas"@la;
+  alchem:references alchem:celeritas .
+
+lat:centeni rdf:type skos:Concept;
+  skos:prefLabel "centeni"@la;
+  alchem:references alchem:centeni .
+
+lat:centrum rdf:type skos:Concept;
+  skos:prefLabel "centrum"@la;
+  alchem:references alchem:centrum .
+
+lat:centum rdf:type skos:Concept;
+  skos:prefLabel "centum"@la;
+  alchem:references alchem:centum .
+
+lat:cerebrum rdf:type skos:Concept;
+  skos:prefLabel "cerebrum"@la;
+  alchem:references alchem:cerebrum .
+
+lat:cero rdf:type skos:Concept;
+  skos:prefLabel "cero"@la;
+  alchem:references alchem:cero .
+
+lat:certamen rdf:type skos:Concept;
+  skos:prefLabel "certamen"@la;
+  alchem:references alchem:certamen .
+
+lat:chemia rdf:type skos:Concept;
+  skos:prefLabel "chemia"@la;
+  alchem:references alchem:chemia .
+
+lat:chiro rdf:type skos:Concept;
+  skos:prefLabel "chiro"@la;
+  alchem:references alchem:chiro .
+
+lat:christi rdf:type skos:Concept;
+  skos:prefLabel "christi"@la;
+  alchem:references alchem:christi .
+
+lat:christianus rdf:type skos:Concept;
+  skos:prefLabel "christianus"@la;
+  alchem:references alchem:christianus .
+
+lat:chymicus rdf:type skos:Concept;
+  skos:prefLabel "chymicus"@la;
+  alchem:references alchem:chymicus .
+
+lat:cibus rdf:type skos:Concept;
+  skos:prefLabel "cibus"@la;
+  alchem:references alchem:cibus .
+
+lat:cicero rdf:type skos:Concept;
+  skos:prefLabel "cicero"@la;
+  alchem:references alchem:cicero .
+
+lat:cineritium rdf:type skos:Concept;
+  skos:prefLabel "cineritium"@la;
+  alchem:references alchem:cineritium .
+
+lat:cinis rdf:type skos:Concept;
+  skos:prefLabel "cinis"@la;
+  alchem:references alchem:cinis .
+
+lat:circulus rdf:type skos:Concept;
+  skos:prefLabel "circulus"@la;
+  alchem:references alchem:circulus .
+
+lat:circumstantia rdf:type skos:Concept;
+  skos:prefLabel "circumstantia"@la;
+  alchem:references alchem:circumstantia .
+
+lat:civitas rdf:type skos:Concept;
+  skos:prefLabel "civitas"@la;
+  alchem:references alchem:civitas .
+
+lat:clarus rdf:type skos:Concept;
+  skos:prefLabel "clarus"@la;
+  alchem:references alchem:clarus .
+
+lat:coagulatio rdf:type skos:Concept;
+  skos:prefLabel "coagulatio"@la;
+  alchem:references alchem:coagulatio .
+
+lat:cocio rdf:type skos:Concept;
+  skos:prefLabel "cocio"@la;
+  alchem:references alchem:cocio .
+
+lat:coelestis rdf:type skos:Concept;
+  skos:prefLabel "coelestis"@la;
+  alchem:references alchem:coelestis .
+
+lat:cognitio rdf:type skos:Concept;
+  skos:prefLabel "cognitio"@la;
+  alchem:references alchem:cognitio .
+
+lat:coactum rdf:type skos:Concept;
+  skos:prefLabel "coactum"@la;
+  alchem:references alchem:coactum .
+
+lat:collegium rdf:type skos:Concept;
+  skos:prefLabel "collegium"@la;
+  alchem:references alchem:collegium .
+
+lat:color rdf:type skos:Concept;
+  skos:prefLabel "color"@la;
+  alchem:references alchem:color .
+
+lat:communis rdf:type skos:Concept;
+  skos:prefLabel "communis"@la;
+  alchem:references alchem:communis .
+
+lat:comparatio rdf:type skos:Concept;
+  skos:prefLabel "comparatio"@la;
+  alchem:references alchem:comparatio .
+
+lat:compositio rdf:type skos:Concept;
+  skos:prefLabel "compositio"@la;
+  alchem:references alchem:compositio .
+
+lat:conceptio rdf:type skos:Concept;
+  skos:prefLabel "conceptio"@la;
+  alchem:references alchem:conceptio .
+
+lat:conjunctio rdf:type skos:Concept;
+  skos:prefLabel "conjunctio"@la;
+  alchem:references alchem:conjunctio .
+
+lat:consideratio rdf:type skos:Concept;
+  skos:prefLabel "consideratio"@la;
+  alchem:references alchem:consideratio .
+
+lat:contem rdf:type skos:Concept;
+  skos:prefLabel "contem"@la;
+  alchem:references alchem:contem .
+
+lat:convenio rdf:type skos:Concept;
+  skos:prefLabel "convenio"@la;
+  alchem:references alchem:convenio .
+
+lat:copia rdf:type skos:Concept;
+  skos:prefLabel "copia"@la;
+  alchem:references alchem:copia .
+
+lat:copiosus rdf:type skos:Concept;
+  skos:prefLabel "copiosus"@la;
+  alchem:references alchem:copiosus .
+
+lat:coquo rdf:type skos:Concept;
+  skos:prefLabel "coquo"@la;
+  alchem:references alchem:coquo .
+
+lat:cor rdf:type skos:Concept;
+  skos:prefLabel "cor"@la;
+  alchem:references alchem:cor .
+
+lat:cornus rdf:type skos:Concept;
+  skos:prefLabel "cornus"@la;
+  alchem:references alchem:cornus .
+
+lat:corono rdf:type skos:Concept;
+  skos:prefLabel "corono"@la;
+  alchem:references alchem:corono .
+
+lat:corporeus rdf:type skos:Concept;
+  skos:prefLabel "corporeus"@la;
+  alchem:references alchem:corporeus .
+
+lat:corpus rdf:type skos:Concept;
+  skos:prefLabel "corpus"@la;
+  alchem:references alchem:corpus .
+
+lat:corruptio rdf:type skos:Concept;
+  skos:prefLabel "corruptio"@la;
+  alchem:references alchem:corruptio .
+
+lat:corum rdf:type skos:Concept;
+  skos:prefLabel "corum"@la;
+  alchem:references alchem:corum .
+
+lat:crato rdf:type skos:Concept;
+  skos:prefLabel "crato"@la;
+  alchem:references alchem:crato .
+
+lat:cuprum rdf:type skos:Concept;
+  skos:prefLabel "cuprum"@la;
+  alchem:references alchem:cuprum .
+
+lat:cura rdf:type skos:Concept;
+  skos:prefLabel "cura"@la;
+  alchem:references alchem:cura .
+
+lat:curatio rdf:type skos:Concept;
+  skos:prefLabel "curatio"@la;
+  alchem:references alchem:curatio .
+
+lat:curro rdf:type skos:Concept;
+  skos:prefLabel "curro"@la;
+  alchem:references alchem:curro .
+
+lat:cutis rdf:type skos:Concept;
+  skos:prefLabel "cutis"@la;
+  alchem:references alchem:cutis .
+
+lat:damnum rdf:type skos:Concept;
+  skos:prefLabel "damnum"@la;
+  alchem:references alchem:damnum .
+
+lat:dea rdf:type skos:Concept;
+  skos:prefLabel "dea"@la;
+  alchem:references alchem:dea .
+
+lat:decem rdf:type skos:Concept;
+  skos:prefLabel "decem"@la;
+  alchem:references alchem:decem .
+
+lat:deceptores rdf:type skos:Concept;
+  skos:prefLabel "deceptores"@la;
+  alchem:references alchem:deceptores .
+
+lat:decies rdf:type skos:Concept;
+  skos:prefLabel "decies"@la;
+  alchem:references alchem:decies .
+
+lat:decus rdf:type skos:Concept;
+  skos:prefLabel "decus"@la;
+  alchem:references alchem:decus .
+
+lat:democritus rdf:type skos:Concept;
+  skos:prefLabel "democritus"@la;
+  alchem:references alchem:democritus .
+
+lat:descriptio rdf:type skos:Concept;
+  skos:prefLabel "descriptio"@la;
+  alchem:references alchem:descriptio .
+
+lat:deus rdf:type skos:Concept;
+  skos:prefLabel "deus"@la;
+  alchem:references alchem:deus .
+
+lat:diana rdf:type skos:Concept;
+  skos:prefLabel "diana"@la;
+  alchem:references alchem:diana .
+
+lat:dies rdf:type skos:Concept;
+  skos:prefLabel "dies"@la;
+  alchem:references alchem:dies .
+
+lat:diluvium rdf:type skos:Concept;
+  skos:prefLabel "diluvium"@la;
+  alchem:references alchem:diluvium .
+
+lat:diodorus rdf:type skos:Concept;
+  skos:prefLabel "diodorus"@la;
+  alchem:references alchem:diodorus .
+
+lat:dionysius rdf:type skos:Concept;
+  skos:prefLabel "dionysius"@la;
+  alchem:references alchem:dionysius .
+
+lat:dionysus rdf:type skos:Concept;
+  skos:prefLabel "dionysus"@la;
+  alchem:references alchem:dionysus .
+
+lat:discursus rdf:type skos:Concept;
+  skos:prefLabel "discursus"@la;
+  alchem:references alchem:discursus .
+
+lat:divino rdf:type skos:Concept;
+  skos:prefLabel "divino"@la;
+  alchem:references alchem:divino .
+
+lat:divinus rdf:type skos:Concept;
+  skos:prefLabel "divinus"@la;
+  alchem:references alchem:divinus .
+
+lat:divitiae rdf:type skos:Concept;
+  skos:prefLabel "divitiae"@la;
+  alchem:references alchem:divitiae .
+
+lat:doctrina rdf:type skos:Concept;
+  skos:prefLabel "doctrina"@la;
+  alchem:references alchem:doctrina .
+
+lat:dogma rdf:type skos:Concept;
+  skos:prefLabel "dogma"@la;
+  alchem:references alchem:dogma .
+
+lat:dolor rdf:type skos:Concept;
+  skos:prefLabel "dolor"@la;
+  alchem:references alchem:dolor .
+
+lat:dolus rdf:type skos:Concept;
+  skos:prefLabel "dolus"@la;
+  alchem:references alchem:dolus .
+
+lat:dominus rdf:type skos:Concept;
+  skos:prefLabel "dominus"@la;
+  alchem:references alchem:dominus .
+
+lat:domus rdf:type skos:Concept;
+  skos:prefLabel "domus"@la;
+  alchem:references alchem:domus .
+
+lat:draco rdf:type skos:Concept;
+  skos:prefLabel "draco"@la;
+  alchem:references alchem:draco .
+
+lat:duodecim rdf:type skos:Concept;
+  skos:prefLabel "duodecim"@la;
+  alchem:references alchem:duodecim .
+
+lat:duplex rdf:type skos:Concept;
+  skos:prefLabel "duplex"@la;
+  alchem:references alchem:duplex .
+
+lat:durus rdf:type skos:Concept;
+  skos:prefLabel "durus"@la;
+  alchem:references alchem:durus .
+
+lat:dux rdf:type skos:Concept;
+  skos:prefLabel "dux"@la;
+  alchem:references alchem:dux .
+
+lat:ecclesia rdf:type skos:Concept;
+  skos:prefLabel "ecclesia"@la;
+  alchem:references alchem:ecclesia .
+
+lat:efficacia rdf:type skos:Concept;
+  skos:prefLabel "efficacia"@la;
+  alchem:references alchem:efficacia .
+
+lat:efficaciam rdf:type skos:Concept;
+  skos:prefLabel "efficaciam"@la;
+  alchem:references alchem:efficaciam .
+
+lat:elementum rdf:type skos:Concept;
+  skos:prefLabel "elementum"@la;
+  alchem:references alchem:elementum .
+
+lat:elixir rdf:type skos:Concept;
+  skos:prefLabel "elixir"@la;
+  alchem:references alchem:elixir .
+
+lat:emblema rdf:type skos:Concept;
+  skos:prefLabel "emblema"@la;
+  alchem:references alchem:emblema .
+
+lat:ens rdf:type skos:Concept;
+  skos:prefLabel "ens"@la;
+  alchem:references alchem:ens .
+
+lat:epigramma rdf:type skos:Concept;
+  skos:prefLabel "epigramma"@la;
+  alchem:references alchem:epigramma .
+
+lat:episcopus rdf:type skos:Concept;
+  skos:prefLabel "episcopus"@la;
+  alchem:references alchem:episcopus .
+
+lat:equus rdf:type skos:Concept;
+  skos:prefLabel "equus"@la;
+  alchem:references alchem:equus .
+
+lat:error rdf:type skos:Concept;
+  skos:prefLabel "error"@la;
+  alchem:references alchem:error .
+
+lat:essentia rdf:type skos:Concept;
+  skos:prefLabel "essentia"@la;
+  alchem:references alchem:essentia .
+
+lat:ethnicis rdf:type skos:Concept;
+  skos:prefLabel "ethnicis"@la;
+  alchem:references alchem:ethnicis .
+
+lat:ethnicus rdf:type skos:Concept;
+  skos:prefLabel "ethnicus"@la;
+  alchem:references alchem:ethnicus .
+
+lat:europa rdf:type skos:Concept;
+  skos:prefLabel "europa"@la;
+  alchem:references alchem:europa .
+
+lat:exceptio rdf:type skos:Concept;
+  skos:prefLabel "exceptio"@la;
+  alchem:references alchem:exceptio .
+
+lat:exercitium rdf:type skos:Concept;
+  skos:prefLabel "exercitium"@la;
+  alchem:references alchem:exercitium .
+
+lat:exiguus rdf:type skos:Concept;
+  skos:prefLabel "exiguus"@la;
+  alchem:references alchem:exiguus .
+
+lat:expeditio rdf:type skos:Concept;
+  skos:prefLabel "expeditio"@la;
+  alchem:references alchem:expeditio .
+
+lat:experientia rdf:type skos:Concept;
+  skos:prefLabel "experientia"@la;
+  alchem:references alchem:experientia .
+
+lat:experimentum rdf:type skos:Concept;
+  skos:prefLabel "experimentum"@la;
+  alchem:references alchem:experimentum .
+
+lat:extremus rdf:type skos:Concept;
+  skos:prefLabel "extremus"@la;
+  alchem:references alchem:extremus .
+
+lat:extrinsecus rdf:type skos:Concept;
+  skos:prefLabel "extrinsecus"@la;
+  alchem:references alchem:extrinsecus .
+
+lat:fabula rdf:type skos:Concept;
+  skos:prefLabel "fabula"@la;
+  alchem:references alchem:fabula .
+
+lat:fabulosus rdf:type skos:Concept;
+  skos:prefLabel "fabulosus"@la;
+  alchem:references alchem:fabulosus .
+
+lat:facies rdf:type skos:Concept;
+  skos:prefLabel "facies"@la;
+  alchem:references alchem:facies .
+
+lat:facinus rdf:type skos:Concept;
+  skos:prefLabel "facinus"@la;
+  alchem:references alchem:facinus .
+
+lat:facultas rdf:type skos:Concept;
+  skos:prefLabel "facultas"@la;
+  alchem:references alchem:facultas .
+
+lat:faecibus rdf:type skos:Concept;
+  skos:prefLabel "faecibus"@la;
+  alchem:references alchem:faecibus .
+
+lat:faemina rdf:type skos:Concept;
+  skos:prefLabel "faemina"@la;
+  alchem:references alchem:faemina .
+
+lat:faetus rdf:type skos:Concept;
+  skos:prefLabel "faetus"@la;
+  alchem:references alchem:faetus .
+
+lat:fama rdf:type skos:Concept;
+  skos:prefLabel "fama"@la;
+  alchem:references alchem:fama .
+
+lat:familia rdf:type skos:Concept;
+  skos:prefLabel "familia"@la;
+  alchem:references alchem:familia .
+
+lat:fermentum rdf:type skos:Concept;
+  skos:prefLabel "fermentum"@la;
+  alchem:references alchem:fermentum .
+
+lat:fernelius rdf:type skos:Concept;
+  skos:prefLabel "fernelius"@la;
+  alchem:references alchem:fernelius .
+
+lat:ferrum rdf:type skos:Concept;
+  skos:prefLabel "ferrum"@la;
+  alchem:references alchem:ferrum .
+
+lat:fetus rdf:type skos:Concept;
+  skos:prefLabel "fetus"@la;
+  alchem:references alchem:fetus .
+
+lat:figura rdf:type skos:Concept;
+  skos:prefLabel "figura"@la;
+  alchem:references alchem:figura .
+
+lat:fimum rdf:type skos:Concept;
+  skos:prefLabel "fimum"@la;
+  alchem:references alchem:fimum .
+
+lat:flamma rdf:type skos:Concept;
+  skos:prefLabel "flamma"@la;
+  alchem:references alchem:flamma .
+
+lat:flos rdf:type skos:Concept;
+  skos:prefLabel "flos"@la;
+  alchem:references alchem:flos .
+
+lat:fluctus rdf:type skos:Concept;
+  skos:prefLabel "fluctus"@la;
+  alchem:references alchem:fluctus .
+
+lat:fluxio rdf:type skos:Concept;
+  skos:prefLabel "fluxio"@la;
+  alchem:references alchem:fluxio .
+
+lat:fodina rdf:type skos:Concept;
+  skos:prefLabel "fodina"@la;
+  alchem:references alchem:fodina .
+
+lat:foemina rdf:type skos:Concept;
+  skos:prefLabel "foemina"@la;
+  alchem:references alchem:foemina .
+
+lat:foetum rdf:type skos:Concept;
+  skos:prefLabel "foetum"@la;
+  alchem:references alchem:foetum .
+
+lat:folium rdf:type skos:Concept;
+  skos:prefLabel "folium"@la;
+  alchem:references alchem:folium .
+
+lat:fons rdf:type skos:Concept;
+  skos:prefLabel "fons"@la;
+  alchem:references alchem:fons .
+
+lat:forma rdf:type skos:Concept;
+  skos:prefLabel "forma"@la;
+  alchem:references alchem:forma .
+
+lat:fortuna rdf:type skos:Concept;
+  skos:prefLabel "fortuna"@la;
+  alchem:references alchem:fortuna .
+
+lat:fossilia rdf:type skos:Concept;
+  skos:prefLabel "fossilia"@la;
+  alchem:references alchem:fossilia .
+
+lat:francorum rdf:type skos:Concept;
+  skos:prefLabel "francorum"@la;
+  alchem:references alchem:francorum .
+
+lat:frater rdf:type skos:Concept;
+  skos:prefLabel "frater"@la;
+  alchem:references alchem:frater .
+
+lat:fraternitas rdf:type skos:Concept;
+  skos:prefLabel "fraternitas"@la;
+  alchem:references alchem:fraternitas .
+
+lat:frigiditatas rdf:type skos:Concept;
+  skos:prefLabel "frigiditatas"@la;
+  alchem:references alchem:frigiditas .
+
+lat:frigidum rdf:type skos:Concept;
+  skos:prefLabel "frigidum"@la;
+  alchem:references alchem:frigidum .
+
+lat:frigus rdf:type skos:Concept;
+  skos:prefLabel "frigus"@la;
+  alchem:references alchem:frigus .
+
+lat:frons rdf:type skos:Concept;
+  skos:prefLabel "frons"@la;
+  alchem:references alchem:frons .
+
+lat:fructus rdf:type skos:Concept;
+  skos:prefLabel "fructus"@la;
+  alchem:references alchem:fructus .
+
+lat:fucus rdf:type skos:Concept;
+  skos:prefLabel "fucus"@la;
+  alchem:references alchem:fucus .
+
+lat:fulmen rdf:type skos:Concept;
+  skos:prefLabel "fulmen"@la;
+  alchem:references alchem:fulmen .
+
+lat:fumus rdf:type skos:Concept;
+  skos:prefLabel "fumus"@la;
+  alchem:references alchem:fumus .
+
+lat:fundamentum rdf:type skos:Concept;
+  skos:prefLabel "fundamentum"@la;
+  alchem:references alchem:fundamentum .
+
+lat:fundus rdf:type skos:Concept;
+  skos:prefLabel "fundus"@la;
+  alchem:references alchem:fundus .
+
+lat:furnus rdf:type skos:Concept;
+  skos:prefLabel "furnus"@la;
+  alchem:references alchem:furnus .
+
+lat:galenus rdf:type skos:Concept;
+  skos:prefLabel "galenus"@la;
+  alchem:references alchem:galenus .
+
+lat:gallia rdf:type skos:Concept;
+  skos:prefLabel "gallia"@la;
+  alchem:references alchem:gallia .
+
+lat:gallina rdf:type skos:Concept;
+  skos:prefLabel "gallina"@la;
+  alchem:references alchem:gallina .
+
+lat:gallus rdf:type skos:Concept;
+  skos:prefLabel "gallus"@la;
+  alchem:references alchem:gallus .
+
+lat:geber rdf:type skos:Concept;
+  skos:prefLabel "geber"@la;
+  alchem:references alchem:geber .
+
+lat:gemma rdf:type skos:Concept;
+  skos:prefLabel "gemma"@la;
+  alchem:references alchem:gemma .
+
+lat:generatio rdf:type skos:Concept;
+  skos:prefLabel "generatio"@la;
+  alchem:references alchem:generatio .
+
+lat:gens rdf:type skos:Concept;
+  skos:prefLabel "gens"@la;
+  alchem:references alchem:gens .
+
+lat:genus rdf:type skos:Concept;
+  skos:prefLabel "genus"@la;
+  alchem:references alchem:genus .
+
+lat:germania rdf:type skos:Concept;
+  skos:prefLabel "germania"@la;
+  alchem:references alchem:germania .
+
+lat:germanus rdf:type skos:Concept;
+  skos:prefLabel "germanus"@la;
+  alchem:references alchem:germanus .
+
+lat:gradus rdf:type skos:Concept;
+  skos:prefLabel "gradus"@la;
+  alchem:references alchem:gradus .
+
+lat:graecia rdf:type skos:Concept;
+  skos:prefLabel "graecia"@la;
+  alchem:references alchem:graecia .
+
+lat:granum rdf:type skos:Concept;
+  skos:prefLabel "granum"@la;
+  alchem:references alchem:granum .
+
+lat:helena rdf:type skos:Concept;
+  skos:prefLabel "helena"@la;
+  alchem:references alchem:helena .
+
+lat:herba rdf:type skos:Concept;
+  skos:prefLabel "herba"@la;
+  alchem:references alchem:herba .
+
+lat:Hercules rdf:type skos:Concept;
+  skos:prefLabel "Hercules"@la;
+  alchem:references alchem:Hercules .
+
+lat:hermes rdf:type skos:Concept;
+  skos:prefLabel "hermes"@la;
+  alchem:references alchem:hermes .
+
+lat:heros rdf:type skos:Concept;
+  skos:prefLabel "heros"@la;
+  alchem:references alchem:heros .
+
+lat:hesperidum rdf:type skos:Concept;
+  skos:prefLabel "hesperidum"@la;
+  alchem:references alchem:hesperidum .
+
+lat:hieroglyphicis rdf:type skos:Concept;
+  skos:prefLabel "hieroglyphicis"@la;
+  alchem:references alchem:hieroglyphicis .
+
+lat:hippocrates rdf:type skos:Concept;
+  skos:prefLabel "hippocrates"@la;
+  alchem:references alchem:hippocrates .
+
+lat:hispania rdf:type skos:Concept;
+  skos:prefLabel "hispania"@la;
+  alchem:references alchem:hispania .
+
+lat:historia rdf:type skos:Concept;
+  skos:prefLabel "historia"@la;
+  alchem:references alchem:historia .
+
+lat:homerus rdf:type skos:Concept;
+  skos:prefLabel "homerus"@la;
+  alchem:references alchem:homerus .
+
+lat:homo rdf:type skos:Concept;
+  skos:prefLabel "homo"@la;
+  alchem:references alchem:homo .
+
+lat:homogenea rdf:type skos:Concept;
+  skos:prefLabel "homogenea"@la;
+  alchem:references alchem:homogeneum .
+
+lat:homogeneum rdf:type skos:Concept;
+  skos:prefLabel "homogeneum"@la;
+  alchem:references alchem:homogeneum .
+
+lat:hora rdf:type skos:Concept;
+  skos:prefLabel "hora"@la;
+  alchem:references alchem:hora .
+
+lat:hortulanus rdf:type skos:Concept;
+  skos:prefLabel "hortulanus"@la;
+  alchem:references alchem:hortulanus .
+
+lat:hortus rdf:type skos:Concept;
+  skos:prefLabel "hortus"@la;
+  alchem:references alchem:hortus .
+
+lat:hostis rdf:type skos:Concept;
+  skos:prefLabel "hostis"@la;
+  alchem:references alchem:hostis .
+
+lat:humanus rdf:type skos:Concept;
+  skos:prefLabel "humanus"@la;
+  alchem:references alchem:humanus .
+
+lat:humiditas rdf:type skos:Concept;
+  skos:prefLabel "humiditas"@la;
+  alchem:references alchem:humiditas .
+
+lat:humidus rdf:type skos:Concept;
+  skos:prefLabel "humidus"@la;
+  alchem:references alchem:humidus .
+
+lat:humoris rdf:type skos:Concept;
+  skos:prefLabel "humoris"@la;
+  alchem:references alchem:humoris .
+
+lat:humus rdf:type skos:Concept;
+  skos:prefLabel "humus"@la;
+  alchem:references alchem:humus .
+
+lat:hyeme rdf:type skos:Concept;
+  skos:prefLabel "hyeme"@la;
+  alchem:references alchem:hyeme .
+
+lat:ignis rdf:type skos:Concept;
+  skos:prefLabel "ignis"@la;
+  alchem:references alchem:ignis .
+
+lat:illustratio rdf:type skos:Concept;
+  skos:prefLabel "illustratio"@la;
+  alchem:references alchem:illustratio .
+
+lat:imaginatio rdf:type skos:Concept;
+  skos:prefLabel "imaginatio"@la;
+  alchem:references alchem:imaginatio .
+
+lat:imago rdf:type skos:Concept;
+  skos:prefLabel "imago"@la;
+  alchem:references alchem:imago .
+
+lat:imperfectus rdf:type skos:Concept;
+  skos:prefLabel "imperfectus"@la;
+  alchem:references alchem:imperfectus .
+
+lat:imperium rdf:type skos:Concept;
+  skos:prefLabel "imperium"@la;
+  alchem:references alchem:imperium .
+
+lat:impetus rdf:type skos:Concept;
+  skos:prefLabel "impetus"@la;
+  alchem:references alchem:impetus .
+
+lat:incrementum rdf:type skos:Concept;
+  skos:prefLabel "incrementum"@la;
+  alchem:references alchem:incrementum .
+
+lat:india rdf:type skos:Concept;
+  skos:prefLabel "india"@la;
+  alchem:references alchem:india .
+
+lat:indiuidua rdf:type skos:Concept;
+  skos:prefLabel "indiuidua"@la;
+  alchem:references alchem:indiuidua .
+
+lat:indos rdf:type skos:Concept;
+  skos:prefLabel "indos"@la;
+  alchem:references alchem:Indus .
+
+lat:inferus rdf:type skos:Concept;
+  skos:prefLabel "inferus"@la;
+  alchem:references alchem:inferus .
+
+lat:ingenium rdf:type skos:Concept;
+  skos:prefLabel "ingenium"@la;
+  alchem:references alchem:ingenium .
+
+lat:inquisitio rdf:type skos:Concept;
+  skos:prefLabel "inquisitio"@la;
+  alchem:references alchem:inquisitio .
+
+lat:inscriptio rdf:type skos:Concept;
+  skos:prefLabel "inscriptio"@la;
+  alchem:references alchem:inscriptio .
+
+lat:instrumentum rdf:type skos:Concept;
+  skos:prefLabel "instrumentum"@la;
+  alchem:references alchem:instrumentum .
+
+lat:insula rdf:type skos:Concept;
+  skos:prefLabel "insula"@la;
+  alchem:references alchem:insula .
+
+lat:intentio rdf:type skos:Concept;
+  skos:prefLabel "intentio"@la;
+  alchem:references alchem:intentio .
+
+lat:interior rdf:type skos:Concept;
+  skos:prefLabel "interior"@la;
+  alchem:references alchem:interior .
+
+lat:intermedio rdf:type skos:Concept;
+  skos:prefLabel "intermedio"@la;
+  alchem:references alchem:intermedio .
+
+lat:interpres rdf:type skos:Concept;
+  skos:prefLabel "interpres"@la;
+  alchem:references alchem:interpres .
+
+lat:intus rdf:type skos:Concept;
+  skos:prefLabel "intus"@la;
+  alchem:references alchem:intus .
+
+lat:inventio rdf:type skos:Concept;
+  skos:prefLabel "inventio"@la;
+  alchem:references alchem:inventio .
+
+lat:inventor rdf:type skos:Concept;
+  skos:prefLabel "inventor"@la;
+  alchem:references alchem:inventor .
+
+lat:invidia rdf:type skos:Concept;
+  skos:prefLabel "invidia"@la;
+  alchem:references alchem:invidia .
+
+lat:iohannes rdf:type skos:Concept;
+  skos:prefLabel "iohannes"@la;
+  alchem:references alchem:iohannes .
+
+lat:ira rdf:type skos:Concept;
+  skos:prefLabel "ira"@la;
+  alchem:references alchem:ira .
+
+lat:isis rdf:type skos:Concept;
+  skos:prefLabel "isis"@la;
+  alchem:references alchem:isis .
+
+lat:italia rdf:type skos:Concept;
+  skos:prefLabel "italia"@la;
+  alchem:references alchem:italia .
+
+lat:iter rdf:type skos:Concept;
+  skos:prefLabel "iter"@la;
+  alchem:references alchem:iter .
+
+lat:iuno rdf:type skos:Concept;
+  skos:prefLabel "iuno"@la;
+  alchem:references alchem:iuno .
+
+lat:iupiter rdf:type skos:Concept;
+  skos:prefLabel "iupiter"@la;
+  alchem:references alchem:iupiter .
+
+lat:judex rdf:type skos:Concept;
+  skos:prefLabel "judex"@la;
+  alchem:references alchem:judex .
+
+lat:judicium rdf:type skos:Concept;
+  skos:prefLabel "judicium"@la;
+  alchem:references alchem:judicium .
+
+lat:juramentum rdf:type skos:Concept;
+  skos:prefLabel "juramentum"@la;
+  alchem:references alchem:juramentum .
+
+lat:juvenis rdf:type skos:Concept;
+  skos:prefLabel "juvenis"@la;
+  alchem:references alchem:juvenis .
+
+lat:labor rdf:type skos:Concept;
+  skos:prefLabel "labor"@la;
+  alchem:references alchem:labor .
+
+lat:lac rdf:type skos:Concept;
+  skos:prefLabel "lac"@la;
+  alchem:references alchem:lac .
+
+lat:lapis rdf:type skos:Concept;
+  skos:prefLabel "lapis"@la;
+  alchem:references alchem:lapis .
+
+lat:latona rdf:type skos:Concept;
+  skos:prefLabel "latona"@la;
+  alchem:references alchem:latona .
+
+lat:latus rdf:type skos:Concept;
+  skos:prefLabel "latus"@la;
+  alchem:references alchem:latus .
+
+lat:lectio rdf:type skos:Concept;
+  skos:prefLabel "lectio"@la;
+  alchem:references alchem:lectio .
+
+lat:lentus rdf:type skos:Concept;
+  skos:prefLabel "lentus"@la;
+  alchem:references alchem:lentus .
+
+lat:leo rdf:type skos:Concept;
+  skos:prefLabel "leo"@la;
+  alchem:references alchem:leo .
+
+lat:lex rdf:type skos:Concept;
+  skos:prefLabel "lex"@la;
+  alchem:references alchem:lex .
+
+lat:liber rdf:type skos:Concept;
+  skos:prefLabel "liber"@la;
+  alchem:references alchem:liber .
+
+lat:libra rdf:type skos:Concept;
+  skos:prefLabel "libra"@la;
+  alchem:references alchem:libra .
+
+lat:lignum rdf:type skos:Concept;
+  skos:prefLabel "lignum"@la;
+  alchem:references alchem:lignum .
+
+lat:limus rdf:type skos:Concept;
+  skos:prefLabel "limus"@la;
+  alchem:references alchem:limus .
+
+lat:linea rdf:type skos:Concept;
+  skos:prefLabel "linea"@la;
+  alchem:references alchem:linea .
+
+lat:lingua rdf:type skos:Concept;
+  skos:prefLabel "lingua"@la;
+  alchem:references alchem:lingua .
+
+lat:liquor rdf:type skos:Concept;
+  skos:prefLabel "liquor"@la;
+  alchem:references alchem:liquor .
+
+lat:littera rdf:type skos:Concept;
+  skos:prefLabel "littera"@la;
+  alchem:references alchem:littera .
+
+lat:locus rdf:type skos:Concept;
+  skos:prefLabel "locus"@la;
+  alchem:references alchem:locus .
+
+lat:lucrum rdf:type skos:Concept;
+  skos:prefLabel "lucrum"@la;
+  alchem:references alchem:lucrum .
+
+lat:lullius rdf:type skos:Concept;
+  skos:prefLabel "lullius"@la;
+  alchem:references alchem:lullius .
+
+lat:lumen rdf:type skos:Concept;
+  skos:prefLabel "lumen"@la;
+  alchem:references alchem:lumen .
+
+lat:luna rdf:type skos:Concept;
+  skos:prefLabel "luna"@la;
+  alchem:references alchem:luna .
+
+lat:lupus rdf:type skos:Concept;
+  skos:prefLabel "lupus"@la;
+  alchem:references alchem:lupus .
+
+lat:lux rdf:type skos:Concept;
+  skos:prefLabel "lux"@la;
+  alchem:references alchem:lux .
+
+lat:magia rdf:type skos:Concept;
+  skos:prefLabel "magia"@la;
+  alchem:references alchem:magia .
+
+lat:magice rdf:type skos:Concept;
+  skos:prefLabel "magice"@la;
+  alchem:references alchem:magia .
+
+lat:magister rdf:type skos:Concept;
+  skos:prefLabel "magister"@la;
+  alchem:references alchem:magister .
+
+lat:magisterius rdf:type skos:Concept;
+  skos:prefLabel "magisterius"@la;
+  alchem:references alchem:magisterius .
+
+lat:magnitudo rdf:type skos:Concept;
+  skos:prefLabel "magnitudo"@la;
+  alchem:references alchem:magnitudo .
+
+lat:magnus rdf:type skos:Concept;
+  skos:prefLabel "magnus"@la;
+  alchem:references alchem:magnus .
+
+lat:manifestatio rdf:type skos:Concept;
+  skos:prefLabel "manifestatio"@la;
+  alchem:references alchem:manifestatio .
+
+lat:manus rdf:type skos:Concept;
+  skos:prefLabel "manus"@la;
+  alchem:references alchem:manus .
+
+lat:mare rdf:type skos:Concept;
+  skos:prefLabel "mare"@la;
+  alchem:references alchem:mare .
+
+lat:mars rdf:type skos:Concept;
+  skos:prefLabel "mars"@la;
+  alchem:references alchem:mars .
+
+lat:masculus rdf:type skos:Concept;
+  skos:prefLabel "masculus"@la;
+  alchem:references alchem:masculus .
+
+lat:mater rdf:type skos:Concept;
+  skos:prefLabel "mater"@la;
+  alchem:references alchem:mater .
+
+lat:materia rdf:type skos:Concept;
+  skos:prefLabel "materia"@la;
+  alchem:references alchem:materia .
+
+lat:matrimonium rdf:type skos:Concept;
+  skos:prefLabel "matrimonium"@la;
+  alchem:references alchem:matrimonium .
+
+lat:medea rdf:type skos:Concept;
+  skos:prefLabel "medea"@la;
+  alchem:references alchem:medea .
+
+lat:medicamentum rdf:type skos:Concept;
+  skos:prefLabel "medicamentum"@la;
+  alchem:references alchem:medicamentum .
+
+lat:medicina rdf:type skos:Concept;
+  skos:prefLabel "medicina"@la;
+  alchem:references alchem:medicina .
+
+lat:medicus rdf:type skos:Concept;
+  skos:prefLabel "medicus"@la;
+  alchem:references alchem:medicus .
+
+lat:mel rdf:type skos:Concept;
+  skos:prefLabel "mel"@la;
+  alchem:references alchem:mel .
+
+lat:membrum rdf:type skos:Concept;
+  skos:prefLabel "membrum"@la;
+  alchem:references alchem:membrum .
+
+lat:memoria rdf:type skos:Concept;
+  skos:prefLabel "memoria"@la;
+  alchem:references alchem:memoria .
+
+lat:mendacium rdf:type skos:Concept;
+  skos:prefLabel "mendacium"@la;
+  alchem:references alchem:mendacium .
+
+lat:mensis rdf:type skos:Concept;
+  skos:prefLabel "mensis"@la;
+  alchem:references alchem:mensis .
+
+lat:mercurius rdf:type skos:Concept;
+  skos:prefLabel "mercurius"@la;
+  alchem:references alchem:mercurius .
+
+lat:meridies rdf:type skos:Concept;
+  skos:prefLabel "meridies"@la;
+  alchem:references alchem:meridies .
+
+lat:metallicus rdf:type skos:Concept;
+  skos:prefLabel "metallicus"@la;
+  alchem:references alchem:metallum .
+
+lat:metallum rdf:type skos:Concept;
+  skos:prefLabel "metallum"@la;
+  alchem:references alchem:metallum .
+
+lat:milliones rdf:type skos:Concept;
+  skos:prefLabel "milliones"@la;
+  alchem:references alchem:milliones .
+
+lat:minera rdf:type skos:Concept;
+  skos:prefLabel "minera"@la;
+  alchem:references alchem:minera .
+
+lat:mirabilis rdf:type skos:Concept;
+  skos:prefLabel "mirabilis"@la;
+  alchem:references alchem:mirabilis .
+
+lat:miraculum rdf:type skos:Concept;
+  skos:prefLabel "miraculum"@la;
+  alchem:references alchem:miraculum .
+
+lat:mirus rdf:type skos:Concept;
+  skos:prefLabel "mirus"@la;
+  alchem:references alchem:mirus .
+
+lat:misceo rdf:type skos:Concept;
+  skos:prefLabel "misceo"@la;
+  alchem:references alchem:mixtio .
+
+lat:mius rdf:type skos:Concept;
+  skos:prefLabel "mius"@la;
+  alchem:references alchem:mius .
+
+lat:mixtio rdf:type skos:Concept;
+  skos:prefLabel "mixtio"@la;
+  alchem:references alchem:mixtio .
+
+lat:modus rdf:type skos:Concept;
+  skos:prefLabel "modus"@la;
+  alchem:references alchem:modus .
+
+lat:monachus rdf:type skos:Concept;
+  skos:prefLabel "monachus"@la;
+  alchem:references alchem:monachus .
+
+lat:mons rdf:type skos:Concept;
+  skos:prefLabel "mons"@la;
+  alchem:references alchem:mons .
+
+lat:monumentum rdf:type skos:Concept;
+  skos:prefLabel "monumentum"@la;
+  alchem:references alchem:monumentum .
+
+lat:morbus rdf:type skos:Concept;
+  skos:prefLabel "morbus"@la;
+  alchem:references alchem:morbus .
+
+lat:morienus rdf:type skos:Concept;
+  skos:prefLabel "morienus"@la;
+  alchem:references alchem:morienus .
+
+lat:mors rdf:type skos:Concept;
+  skos:prefLabel "mors"@la;
+  alchem:references alchem:mors .
+
+lat:mortalis rdf:type skos:Concept;
+  skos:prefLabel "mortalis"@la;
+  alchem:references alchem:mortalis .
+
+lat:mos rdf:type skos:Concept;
+  skos:prefLabel "mos"@la;
+  alchem:references alchem:mos .
+
+lat:moses rdf:type skos:Concept;
+  skos:prefLabel "moses"@la;
+  alchem:references alchem:moses .
+
+lat:mulier rdf:type skos:Concept;
+  skos:prefLabel "mulier"@la;
+  alchem:references alchem:mulier .
+
+lat:multitudo rdf:type skos:Concept;
+  skos:prefLabel "multitudo"@la;
+  alchem:references alchem:multitudo .
+
+lat:mundus rdf:type skos:Concept;
+  skos:prefLabel "mundus"@la;
+  alchem:references alchem:mundus .
+
+lat:munus rdf:type skos:Concept;
+  skos:prefLabel "munus"@la;
+  alchem:references alchem:munus .
+
+lat:mutatio rdf:type skos:Concept;
+  skos:prefLabel "mutatio"@la;
+  alchem:references alchem:mutatio .
+
+lat:muto rdf:type skos:Concept;
+  skos:prefLabel "muto"@la;
+  alchem:references alchem:muto .
+
+lat:mutuo rdf:type skos:Concept;
+  skos:prefLabel "mutuo"@la;
+  alchem:references alchem:mutuo .
+
+lat:mysterium rdf:type skos:Concept;
+  skos:prefLabel "mysterium"@la;
+  alchem:references alchem:mysterium .
+
+lat:natalis rdf:type skos:Concept;
+  skos:prefLabel "natalis"@la;
+  alchem:references alchem:natalis .
+
+lat:natio rdf:type skos:Concept;
+  skos:prefLabel "natio"@la;
+  alchem:references alchem:natio .
+
+lat:natura rdf:type skos:Concept;
+  skos:prefLabel "natura"@la;
+  alchem:references alchem:natura .
+
+lat:naturalis rdf:type skos:Concept;
+  skos:prefLabel "naturalis"@la;
+  alchem:references alchem:naturalis .
+
+lat:necessitas rdf:type skos:Concept;
+  skos:prefLabel "necessitas"@la;
+  alchem:references alchem:necessitas .
+
+lat:nefas rdf:type skos:Concept;
+  skos:prefLabel "nefas"@la;
+  alchem:references alchem:nefas .
+
+lat:negatiuum rdf:type skos:Concept;
+  skos:prefLabel "negatiuum"@la;
+  alchem:references alchem:negatiuum .
+
+lat:Neptunus rdf:type skos:Concept;
+  skos:prefLabel "Neptunus"@la;
+  alchem:references alchem:Neptunus .
+
+lat:nidus rdf:type skos:Concept;
+  skos:prefLabel "nidus"@la;
+  alchem:references alchem:nidus .
+
+lat:niger rdf:type skos:Concept;
+  skos:prefLabel "niger"@la;
+  alchem:references alchem:niger .
+
+lat:nigredo rdf:type skos:Concept;
+  skos:prefLabel "nigredo"@la;
+  alchem:references alchem:nigredo .
+
+lat:nilus rdf:type skos:Concept;
+  skos:prefLabel "nilus"@la;
+  alchem:references alchem:nilus .
+
+lat:noctua rdf:type skos:Concept;
+  skos:prefLabel "noctua"@la;
+  alchem:references alchem:noctua .
+
+lat:nomen rdf:type skos:Concept;
+  skos:prefLabel "nomen"@la;
+  alchem:references alchem:nomen .
+
+lat:nortoni rdf:type skos:Concept;
+  skos:prefLabel "nortoni"@la;
+  alchem:references alchem:nortoni .
+
+lat:nox rdf:type skos:Concept;
+  skos:prefLabel "nox"@la;
+  alchem:references alchem:nox .
+
+lat:noxa rdf:type skos:Concept;
+  skos:prefLabel "noxa"@la;
+  alchem:references alchem:noxa .
+
+lat:noxius rdf:type skos:Concept;
+  skos:prefLabel "noxius"@la;
+  alchem:references alchem:noxius .
+
+lat:nubis rdf:type skos:Concept;
+  skos:prefLabel "nubis"@la;
+  alchem:references alchem:nubis .
+
+lat:nucleus rdf:type skos:Concept;
+  skos:prefLabel "nucleus"@la;
+  alchem:references alchem:nucleus .
+
+lat:nutrimenta rdf:type skos:Concept;
+  skos:prefLabel "nutrimenta"@la;
+  alchem:references alchem:nutrimenta .
+
+lat:nutrix rdf:type skos:Concept;
+  skos:prefLabel "nutrix"@la;
+  alchem:references alchem:nutrix .
+
+lat:nutus rdf:type skos:Concept;
+  skos:prefLabel "nutus"@la;
+  alchem:references alchem:nutus .
+
+lat:occasio rdf:type skos:Concept;
+  skos:prefLabel "occasio"@la;
+  alchem:references alchem:occasio .
+
+lat:oceanus rdf:type skos:Concept;
+  skos:prefLabel "oceanus"@la;
+  alchem:references alchem:oceanus .
+
+lat:octo rdf:type skos:Concept;
+  skos:prefLabel "octo"@la;
+  alchem:references alchem:octo .
+
+lat:oculus rdf:type skos:Concept;
+  skos:prefLabel "oculus"@la;
+  alchem:references alchem:oculus .
+
+lat:odor rdf:type skos:Concept;
+  skos:prefLabel "odor"@la;
+  alchem:references alchem:odor .
+
+lat:officina rdf:type skos:Concept;
+  skos:prefLabel "officina"@la;
+  alchem:references alchem:officina .
+
+lat:officium rdf:type skos:Concept;
+  skos:prefLabel "officium"@la;
+  alchem:references alchem:officium .
+
+lat:oleum rdf:type skos:Concept;
+  skos:prefLabel "oleum"@la;
+  alchem:references alchem:oleum .
+
+lat:opera rdf:type skos:Concept;
+  skos:prefLabel "opera"@la;
+  alchem:references alchem:opera .
+
+lat:operatio rdf:type skos:Concept;
+  skos:prefLabel "operatio"@la;
+  alchem:references alchem:operatio .
+
+lat:opinio rdf:type skos:Concept;
+  skos:prefLabel "opinio"@la;
+  alchem:references alchem:opinio .
+
+lat:ops rdf:type skos:Concept;
+  skos:prefLabel "ops"@la;
+  alchem:references alchem:ops .
+
+lat:opus rdf:type skos:Concept;
+  skos:prefLabel "opus"@la;
+  alchem:references alchem:opus .
+
+lat:oratio rdf:type skos:Concept;
+  skos:prefLabel "oratio"@la;
+  alchem:references alchem:oratio .
+
+lat:orbus rdf:type skos:Concept;
+  skos:prefLabel "orbus"@la;
+  alchem:references alchem:orbus .
+
+lat:ordo rdf:type skos:Concept;
+  skos:prefLabel "ordo"@la;
+  alchem:references alchem:ordo .
+
+lat:organum rdf:type skos:Concept;
+  skos:prefLabel "organum"@la;
+  alchem:references alchem:organum .
+
+lat:origo rdf:type skos:Concept;
+  skos:prefLabel "origo"@la;
+  alchem:references alchem:origo .
+
+lat:orpheus rdf:type skos:Concept;
+  skos:prefLabel "orpheus"@la;
+  alchem:references alchem:orpheus .
+
+lat:osiris rdf:type skos:Concept;
+  skos:prefLabel "osiris"@la;
+  alchem:references alchem:osiris .
+
+lat:ossum rdf:type skos:Concept;
+  skos:prefLabel "ossum"@la;
+  alchem:references alchem:ossum .
+
+lat:ovum rdf:type skos:Concept;
+  skos:prefLabel "ovum"@la;
+  alchem:references alchem:ovum .
+
+lat:pallas rdf:type skos:Concept;
+  skos:prefLabel "pallas"@la;
+  alchem:references alchem:pallas .
+
+lat:papa rdf:type skos:Concept;
+  skos:prefLabel "papa"@la;
+  alchem:references alchem:papa .
+
+lat:papilio rdf:type skos:Concept;
+  skos:prefLabel "papilio"@la;
+  alchem:references alchem:papilio .
+
+lat:paracelsi rdf:type skos:Concept;
+  skos:prefLabel "paracelsi"@la;
+  alchem:references alchem:paracelsi .
+
+lat:parvus rdf:type skos:Concept;
+  skos:prefLabel "parvus"@la;
+  alchem:references alchem:parvus .
+
+lat:pater rdf:type skos:Concept;
+  skos:prefLabel "pater"@la;
+  alchem:references alchem:pater .
+
+lat:patior rdf:type skos:Concept;
+  skos:prefLabel "patior"@la;
+  alchem:references alchem:patior .
+
+lat:patria rdf:type skos:Concept;
+  skos:prefLabel "patria"@la;
+  alchem:references alchem:patria .
+
+lat:pectus rdf:type skos:Concept;
+  skos:prefLabel "pectus"@la;
+  alchem:references alchem:pectus .
+
+lat:pecunia rdf:type skos:Concept;
+  skos:prefLabel "pecunia"@la;
+  alchem:references alchem:pecunia .
+
+lat:pellis rdf:type skos:Concept;
+  skos:prefLabel "pellis"@la;
+  alchem:references alchem:pellis .
+
+lat:pelopis rdf:type skos:Concept;
+  skos:prefLabel "pelopis"@la;
+  alchem:references alchem:pelopis .
+
+lat:penetro rdf:type skos:Concept;
+  skos:prefLabel "penetro"@la;
+  alchem:references alchem:penetro .
+
+lat:peregrinatio rdf:type skos:Concept;
+  skos:prefLabel "peregrinatio"@la;
+  alchem:references alchem:peregrinatio .
+
+lat:perfectio rdf:type skos:Concept;
+  skos:prefLabel "perfectio"@la;
+  alchem:references alchem:perfectio .
+
+lat:perficio rdf:type skos:Concept;
+  skos:prefLabel "perficio"@la;
+  alchem:references alchem:perfectio .
+
+lat:perperus rdf:type skos:Concept;
+  skos:prefLabel "perperus"@la;
+  alchem:references alchem:perperus .
+
+lat:perpetuus rdf:type skos:Concept;
+  skos:prefLabel "perpetuus"@la;
+  alchem:references alchem:perpetuus .
+
+lat:persona rdf:type skos:Concept;
+  skos:prefLabel "persona"@la;
+  alchem:references alchem:persona .
+
+lat:pes rdf:type skos:Concept;
+  skos:prefLabel "pes"@la;
+  alchem:references alchem:pes .
+
+lat:petrus rdf:type skos:Concept;
+  skos:prefLabel "petrus"@la;
+  alchem:references alchem:petrus .
+
+lat:phiala rdf:type skos:Concept;
+  skos:prefLabel "phiala"@la;
+  alchem:references alchem:phiala .
+
+lat:philosophia rdf:type skos:Concept;
+  skos:prefLabel "philosophia"@la;
+  alchem:references alchem:philosophia .
+
+lat:philosophicus rdf:type skos:Concept;
+  skos:prefLabel "philosophicus"@la;
+  alchem:references alchem:philosophia .
+
+lat:philosophus rdf:type skos:Concept;
+  skos:prefLabel "philosophus"@la;
+  alchem:references alchem:philosophus .
+
+lat:phoenix rdf:type skos:Concept;
+  skos:prefLabel "phoenix"@la;
+  alchem:references alchem:phoenix .
+
+lat:physica rdf:type skos:Concept;
+  skos:prefLabel "physica"@la;
+  alchem:references alchem:physica .
+
+lat:piscis rdf:type skos:Concept;
+  skos:prefLabel "piscis"@la;
+  alchem:references alchem:piscis .
+
+lat:planeta rdf:type skos:Concept;
+  skos:prefLabel "planeta"@la;
+  alchem:references alchem:planeta .
+
+lat:planta rdf:type skos:Concept;
+  skos:prefLabel "planta"@la;
+  alchem:references alchem:planta .
+
+lat:plato rdf:type skos:Concept;
+  skos:prefLabel "plato"@la;
+  alchem:references alchem:plato .
+
+lat:plinius rdf:type skos:Concept;
+  skos:prefLabel "plinius"@la;
+  alchem:references alchem:plinius .
+
+lat:plumbum rdf:type skos:Concept;
+  skos:prefLabel "plumbum"@la;
+  alchem:references alchem:plumbum .
+
+lat:pluto rdf:type skos:Concept;
+  skos:prefLabel "pluto"@la;
+  alchem:references alchem:pluto .
+
+lat:pluvia rdf:type skos:Concept;
+  skos:prefLabel "pluvia"@la;
+  alchem:references alchem:pluvia .
+
+lat:podagra rdf:type skos:Concept;
+  skos:prefLabel "podagra"@la;
+  alchem:references alchem:podagra .
+
+lat:poeta rdf:type skos:Concept;
+  skos:prefLabel "poeta"@la;
+  alchem:references alchem:poeta .
+
+lat:pomum rdf:type skos:Concept;
+  skos:prefLabel "pomum"@la;
+  alchem:references alchem:pomum .
+
+lat:pondus rdf:type skos:Concept;
+  skos:prefLabel "pondus"@la;
+  alchem:references alchem:pondus .
+
+lat:populus rdf:type skos:Concept;
+  skos:prefLabel "populus"@la;
+  alchem:references alchem:populus .
+
+lat:possessio rdf:type skos:Concept;
+  skos:prefLabel "possessio"@la;
+  alchem:references alchem:possessio .
+
+lat:potabile rdf:type skos:Concept;
+  skos:prefLabel "potabile"@la;
+  alchem:references alchem:potabile .
+
+lat:potentia rdf:type skos:Concept;
+  skos:prefLabel "potentia"@la;
+  alchem:references alchem:potentia .
+
+lat:potestas rdf:type skos:Concept;
+  skos:prefLabel "potestas"@la;
+  alchem:references alchem:potestas .
+
+lat:praeparatio rdf:type skos:Concept;
+  skos:prefLabel "praeparatio"@la;
+  alchem:references alchem:praeparatio .
+
+lat:precium rdf:type skos:Concept;
+  skos:prefLabel "precium"@la;
+  alchem:references alchem:precium .
+
+lat:prex rdf:type skos:Concept;
+  skos:prefLabel "prex"@la;
+  alchem:references alchem:prex .
+
+lat:primus rdf:type skos:Concept;
+  skos:prefLabel "primus"@la;
+  alchem:references alchem:primus .
+
+lat:principium rdf:type skos:Concept;
+  skos:prefLabel "principium"@la;
+  alchem:references alchem:principium .
+
+lat:probatio rdf:type skos:Concept;
+  skos:prefLabel "probatio"@la;
+  alchem:references alchem:probatio .
+
+lat:probo rdf:type skos:Concept;
+  skos:prefLabel "probo"@la;
+  alchem:references alchem:probo .
+
+lat:produco rdf:type skos:Concept;
+  skos:prefLabel "produco"@la;
+  alchem:references alchem:produco .
+
+lat:profundus rdf:type skos:Concept;
+  skos:prefLabel "profundus"@la;
+  alchem:references alchem:profundus .
+
+lat:projectio rdf:type skos:Concept;
+  skos:prefLabel "projectio"@la;
+  alchem:references alchem:projectio .
+
+lat:proportio rdf:type skos:Concept;
+  skos:prefLabel "proportio"@la;
+  alchem:references alchem:proportio .
+
+lat:proprietas rdf:type skos:Concept;
+  skos:prefLabel "proprietas"@la;
+  alchem:references alchem:proprietas .
+
+lat:puella rdf:type skos:Concept;
+  skos:prefLabel "puella"@la;
+  alchem:references alchem:puella .
+
+lat:pullus rdf:type skos:Concept;
+  skos:prefLabel "pullus"@la;
+  alchem:references alchem:pullus .
+
+lat:pulvis rdf:type skos:Concept;
+  skos:prefLabel "pulvis"@la;
+  alchem:references alchem:pulvis .
+
+lat:purus rdf:type skos:Concept;
+  skos:prefLabel "purus"@la;
+  alchem:references alchem:purus .
+
+lat:putrefactio rdf:type skos:Concept;
+  skos:prefLabel "putrefactio"@la;
+  alchem:references alchem:putrefactio .
+
+lat:pythagoras rdf:type skos:Concept;
+  skos:prefLabel "pythagoras"@la;
+  alchem:references alchem:pythagoras .
+
+lat:quadraginta rdf:type skos:Concept;
+  skos:prefLabel "quadraginta"@la;
+  alchem:references alchem:quadraginta .
+
+lat:quaestio rdf:type skos:Concept;
+  skos:prefLabel "quaestio"@la;
+  alchem:references alchem:quaestio .
+
+lat:qualitas rdf:type skos:Concept;
+  skos:prefLabel "qualitas"@la;
+  alchem:references alchem:qualitas .
+
+lat:quantitas rdf:type skos:Concept;
+  skos:prefLabel "quantitas"@la;
+  alchem:references alchem:quantitas .
+
+lat:quantus rdf:type skos:Concept;
+  skos:prefLabel "quantus"@la;
+  alchem:references alchem:quantus .
+
+lat:quartum rdf:type skos:Concept;
+  skos:prefLabel "quartum"@la;
+  alchem:references alchem:quattuor .
+
+lat:quater rdf:type skos:Concept;
+  skos:prefLabel "quater"@la;
+  alchem:references alchem:quattuor .
+
+lat:quattuor rdf:type skos:Concept;
+  skos:prefLabel "quattuor"@la;
+  alchem:references alchem:quattuor .
+
+lat:quinquaginta rdf:type skos:Concept;
+  skos:prefLabel "quinquaginta"@la;
+  alchem:references alchem:quinquaginta .
+
+lat:quintus rdf:type skos:Concept;
+  skos:prefLabel "quintus"@la;
+  alchem:references alchem:quintus .
+
+lat:radius rdf:type skos:Concept;
+  skos:prefLabel "radius"@la;
+  alchem:references alchem:radius .
+
+lat:radix rdf:type skos:Concept;
+  skos:prefLabel "radix"@la;
+  alchem:references alchem:radix .
+
+lat:ratio rdf:type skos:Concept;
+  skos:prefLabel "ratio"@la;
+  alchem:references alchem:ratio .
+
+lat:rationalis rdf:type skos:Concept;
+  skos:prefLabel "rationalis"@la;
+  alchem:references alchem:ratio .
+
+lat:raymundus rdf:type skos:Concept;
+  skos:prefLabel "raymundus"@la;
+  alchem:references alchem:raymundus .
+
+lat:rebis rdf:type skos:Concept;
+  skos:prefLabel "rebis"@la;
+  alchem:references alchem:rebis .
+
+lat:reductio rdf:type skos:Concept;
+  skos:prefLabel "reductio"@la;
+  alchem:references alchem:reductio .
+
+lat:regina rdf:type skos:Concept;
+  skos:prefLabel "regina"@la;
+  alchem:references alchem:regina .
+
+lat:regio rdf:type skos:Concept;
+  skos:prefLabel "regio"@la;
+  alchem:references alchem:regio .
+
+lat:regnum rdf:type skos:Concept;
+  skos:prefLabel "regnum"@la;
+  alchem:references alchem:regnum .
+
+lat:relatio rdf:type skos:Concept;
+  skos:prefLabel "relatio"@la;
+  alchem:references alchem:relatio .
+
+lat:religio rdf:type skos:Concept;
+  skos:prefLabel "religio"@la;
+  alchem:references alchem:religio .
+
+lat:remedio rdf:type skos:Concept;
+  skos:prefLabel "remedio"@la;
+  alchem:references alchem:remedio .
+
+lat:remedium rdf:type skos:Concept;
+  skos:prefLabel "remedium"@la;
+  alchem:references alchem:remedium .
+
+lat:responsio rdf:type skos:Concept;
+  skos:prefLabel "responsio"@la;
+  alchem:references alchem:responsio .
+
+lat:rex rdf:type skos:Concept;
+  skos:prefLabel "rex"@la;
+  alchem:references alchem:rex .
+
+lat:riplaeus rdf:type skos:Concept;
+  skos:prefLabel "riplaeus"@la;
+  alchem:references alchem:riplaeus .
+
+lat:robur rdf:type skos:Concept;
+  skos:prefLabel "robur"@la;
+  alchem:references alchem:robur .
+
+lat:roma rdf:type skos:Concept;
+  skos:prefLabel "roma"@la;
+  alchem:references alchem:roma .
+
+lat:romanus rdf:type skos:Concept;
+  skos:prefLabel "romanus"@la;
+  alchem:references alchem:romanus .
+
+lat:rosarius rdf:type skos:Concept;
+  skos:prefLabel "rosarius"@la;
+  alchem:references alchem:rosarius .
+
+lat:rubedinem rdf:type skos:Concept;
+  skos:prefLabel "rubedinem"@la;
+  alchem:references alchem:rubedinem .
+
+lat:rubedo rdf:type skos:Concept;
+  skos:prefLabel "rubedo"@la;
+  alchem:references alchem:rubedo .
+
+lat:rubeus rdf:type skos:Concept;
+  skos:prefLabel "rubeus"@la;
+  alchem:references alchem:rubeus .
+
+lat:rubrus rdf:type skos:Concept;
+  skos:prefLabel "rubrus"@la;
+  alchem:references alchem:rubrus .
+
+lat:sacerdos rdf:type skos:Concept;
+  skos:prefLabel "sacerdos"@la;
+  alchem:references alchem:sacerdos .
+
+lat:sagitta rdf:type skos:Concept;
+  skos:prefLabel "sagitta"@la;
+  alchem:references alchem:sagitta .
+
+lat:sal rdf:type skos:Concept;
+  skos:prefLabel "sal"@la;
+  alchem:references alchem:sal .
+
+lat:salomonem rdf:type skos:Concept;
+  skos:prefLabel "salomonem"@la;
+  alchem:references alchem:salomonem .
+
+lat:sanguis rdf:type skos:Concept;
+  skos:prefLabel "sanguis"@la;
+  alchem:references alchem:sanguis .
+
+lat:sanitas rdf:type skos:Concept;
+  skos:prefLabel "sanitas"@la;
+  alchem:references alchem:sanitas .
+
+lat:sapientia rdf:type skos:Concept;
+  skos:prefLabel "sapientia"@la;
+  alchem:references alchem:sapientia .
+
+lat:saturnus rdf:type skos:Concept;
+  skos:prefLabel "saturnus"@la;
+  alchem:references alchem:saturnus .
+
+lat:saxum rdf:type skos:Concept;
+  skos:prefLabel "saxum"@la;
+  alchem:references alchem:saxum .
+
+lat:scientia rdf:type skos:Concept;
+  skos:prefLabel "scientia"@la;
+  alchem:references alchem:scientia .
+
+lat:scriptor rdf:type skos:Concept;
+  skos:prefLabel "scriptor"@la;
+  alchem:references alchem:scriptor .
+
+lat:secerno rdf:type skos:Concept;
+  skos:prefLabel "secerno"@la;
+  alchem:references alchem:secerno .
+
+lat:secula rdf:type skos:Concept;
+  skos:prefLabel "secula"@la;
+  alchem:references alchem:secula .
+
+lat:semele rdf:type skos:Concept;
+  skos:prefLabel "semele"@la;
+  alchem:references alchem:semele .
+
+lat:semen rdf:type skos:Concept;
+  skos:prefLabel "semen"@la;
+  alchem:references alchem:semen .
+
+lat:senex rdf:type skos:Concept;
+  skos:prefLabel "senex"@la;
+  alchem:references alchem:senex .
+
+lat:sensus rdf:type skos:Concept;
+  skos:prefLabel "sensus"@la;
+  alchem:references alchem:sensus .
+
+lat:sententia rdf:type skos:Concept;
+  skos:prefLabel "sententia"@la;
+  alchem:references alchem:sententia .
+
+lat:sentio rdf:type skos:Concept;
+  skos:prefLabel "sentio"@la;
+  alchem:references alchem:sentio .
+
+lat:separatio rdf:type skos:Concept;
+  skos:prefLabel "separatio"@la;
+  alchem:references alchem:separatio .
+
+lat:separo rdf:type skos:Concept;
+  skos:prefLabel "separo"@la;
+  alchem:references alchem:separatio .
+
+lat:septem rdf:type skos:Concept;
+  skos:prefLabel "septem"@la;
+  alchem:references alchem:septem .
+
+lat:sepulcrum rdf:type skos:Concept;
+  skos:prefLabel "sepulcrum"@la;
+  alchem:references alchem:sepulcrum .
+
+lat:sermo rdf:type skos:Concept;
+  skos:prefLabel "sermo"@la;
+  alchem:references alchem:sermo .
+
+lat:serpens rdf:type skos:Concept;
+  skos:prefLabel "serpens"@la;
+  alchem:references alchem:serpens .
+
+lat:sexus rdf:type skos:Concept;
+  skos:prefLabel "sexus"@la;
+  alchem:references alchem:sexus .
+
+lat:sibylla rdf:type skos:Concept;
+  skos:prefLabel "sibylla"@la;
+  alchem:references alchem:sibylla .
+
+lat:siccitas rdf:type skos:Concept;
+  skos:prefLabel "siccitas"@la;
+  alchem:references alchem:siccitas .
+
+lat:sicco rdf:type skos:Concept;
+  skos:prefLabel "sicco"@la;
+  alchem:references alchem:siccitas .
+
+lat:siccus rdf:type skos:Concept;
+  skos:prefLabel "siccus"@la;
+  alchem:references alchem:siccitas .
+
+lat:signum rdf:type skos:Concept;
+  skos:prefLabel "signum"@la;
+  alchem:references alchem:signum .
+
+lat:silentium rdf:type skos:Concept;
+  skos:prefLabel "silentium"@la;
+  alchem:references alchem:silentium .
+
+lat:similis rdf:type skos:Concept;
+  skos:prefLabel "similis"@la;
+  alchem:references alchem:similis .
+
+lat:similitudo rdf:type skos:Concept;
+  skos:prefLabel "similitudo"@la;
+  alchem:references alchem:similitudo .
+
+lat:simplex rdf:type skos:Concept;
+  skos:prefLabel "simplex"@la;
+  alchem:references alchem:simplex .
+
+lat:singularis rdf:type skos:Concept;
+  skos:prefLabel "singularis"@la;
+  alchem:references alchem:singularis .
+
+lat:socrates rdf:type skos:Concept;
+  skos:prefLabel "socrates"@la;
+  alchem:references alchem:socrates .
+
+lat:sol rdf:type skos:Concept;
+  skos:prefLabel "sol"@la;
+  alchem:references alchem:sol .
+
+lat:solenander rdf:type skos:Concept;
+  skos:prefLabel "solenander"@la;
+  alchem:references alchem:solenander .
+
+lat:solutio rdf:type skos:Concept;
+  skos:prefLabel "solutio"@la;
+  alchem:references alchem:solutio .
+
+lat:soror rdf:type skos:Concept;
+  skos:prefLabel "soror"@la;
+  alchem:references alchem:soror .
+
+lat:spacium rdf:type skos:Concept;
+  skos:prefLabel "spacium"@la;
+  alchem:references alchem:spacium .
+
+lat:species rdf:type skos:Concept;
+  skos:prefLabel "species"@la;
+  alchem:references alchem:species .
+
+lat:spirituali rdf:type skos:Concept;
+  skos:prefLabel "spirituali"@la;
+  alchem:references alchem:spiritus .
+
+lat:spiritus rdf:type skos:Concept;
+  skos:prefLabel "spiritus"@la;
+  alchem:references alchem:spiritus .
+
+lat:splendor rdf:type skos:Concept;
+  skos:prefLabel "splendor"@la;
+  alchem:references alchem:splendor .
+
+lat:stannum rdf:type skos:Concept;
+  skos:prefLabel "stannum"@la;
+  alchem:references alchem:stannum .
+
+lat:stella rdf:type skos:Concept;
+  skos:prefLabel "stella"@la;
+  alchem:references alchem:stella .
+
+lat:studium rdf:type skos:Concept;
+  skos:prefLabel "studium"@la;
+  alchem:references alchem:studium .
+
+lat:subjecto rdf:type skos:Concept;
+  skos:prefLabel "subjecto"@la;
+  alchem:references alchem:subjecto .
+
+lat:subjectus rdf:type skos:Concept;
+  skos:prefLabel "subjectus"@la;
+  alchem:references alchem:subjectus .
+
+lat:substantia rdf:type skos:Concept;
+  skos:prefLabel "substantia"@la;
+  alchem:references alchem:substantia .
+
+lat:subterraneus rdf:type skos:Concept;
+  skos:prefLabel "subterraneus"@la;
+  alchem:references alchem:subterraneus .
+
+lat:succo rdf:type skos:Concept;
+  skos:prefLabel "succo"@la;
+  alchem:references alchem:succus .
+
+lat:succus rdf:type skos:Concept;
+  skos:prefLabel "succus"@la;
+  alchem:references alchem:succus .
+
+lat:sufficio rdf:type skos:Concept;
+  skos:prefLabel "sufficio"@la;
+  alchem:references alchem:sufficio .
+
+lat:sulfur rdf:type skos:Concept;
+  skos:prefLabel "sulfur"@la;
+  alchem:references alchem:sulfur .
+
+lat:summum rdf:type skos:Concept;
+  skos:prefLabel "summum"@la;
+  alchem:references alchem:summum .
+
+lat:sumo rdf:type skos:Concept;
+  skos:prefLabel "sumo"@la;
+  alchem:references alchem:sumo .
+
+lat:sumptus rdf:type skos:Concept;
+  skos:prefLabel "sumptus"@la;
+  alchem:references alchem:sumptus .
+
+lat:superficies rdf:type skos:Concept;
+  skos:prefLabel "superficies"@la;
+  alchem:references alchem:superficies .
+
+lat:superus rdf:type skos:Concept;
+  skos:prefLabel "superus"@la;
+  alchem:references alchem:superus .
+
+lat:templum rdf:type skos:Concept;
+  skos:prefLabel "templum"@la;
+  alchem:references alchem:templum .
+
+lat:tempus rdf:type skos:Concept;
+  skos:prefLabel "tempus"@la;
+  alchem:references alchem:tempus .
+
+lat:tenebra rdf:type skos:Concept;
+  skos:prefLabel "tenebra"@la;
+  alchem:references alchem:tenebra .
+
+lat:terra rdf:type skos:Concept;
+  skos:prefLabel "terra"@la;
+  alchem:references alchem:terra .
+
+lat:terrenus rdf:type skos:Concept;
+  skos:prefLabel "terrenus"@la;
+  alchem:references alchem:terrenus .
+
+lat:terrestris rdf:type skos:Concept;
+  skos:prefLabel "terrestris"@la;
+  alchem:references alchem:terrestris .
+
+lat:tertius rdf:type skos:Concept;
+  skos:prefLabel "tertius"@la;
+  alchem:references alchem:tertius .
+
+lat:testimonium rdf:type skos:Concept;
+  skos:prefLabel "testimonium"@la;
+  alchem:references alchem:testimonium .
+
+lat:testis rdf:type skos:Concept;
+  skos:prefLabel "testis"@la;
+  alchem:references alchem:testis .
+
+lat:Thebis rdf:type skos:Concept;
+  skos:prefLabel "Thebis"@la;
+  alchem:references alchem:Thebis .
+
+lat:thomas rdf:type skos:Concept;
+  skos:prefLabel "thomas"@la;
+  alchem:references alchem:thomas .
+
+lat:tingo rdf:type skos:Concept;
+  skos:prefLabel "tingo"@la;
+  alchem:references alchem:tinctio .
+
+lat:titulus rdf:type skos:Concept;
+  skos:prefLabel "titulus"@la;
+  alchem:references alchem:titulus .
+
+lat:tractatio rdf:type skos:Concept;
+  skos:prefLabel "tractatio"@la;
+  alchem:references alchem:tractatio .
+
+lat:trecenti rdf:type skos:Concept;
+  skos:prefLabel "trecenti"@la;
+  alchem:references alchem:trecenti .
+
+lat:tres rdf:type skos:Concept;
+  skos:prefLabel "tres"@la;
+  alchem:references alchem:tres .
+
+lat:triginta rdf:type skos:Concept;
+  skos:prefLabel "triginta"@la;
+  alchem:references alchem:triginta .
+
+lat:troia rdf:type skos:Concept;
+  skos:prefLabel "troia"@la;
+  alchem:references alchem:troia .
+
+lat:turba rdf:type skos:Concept;
+  skos:prefLabel "turba"@la;
+  alchem:references alchem:turba .
+
+lat:turcici rdf:type skos:Concept;
+  skos:prefLabel "turcici"@la;
+  alchem:references alchem:turcici .
+
+lat:typhus rdf:type skos:Concept;
+  skos:prefLabel "typhus"@la;
+  alchem:references alchem:typhus .
+
+lat:tyri rdf:type skos:Concept;
+  skos:prefLabel "tyri"@la;
+  alchem:references alchem:tyri .
+
+lat:ualentinus rdf:type skos:Concept;
+  skos:prefLabel "ualentinus"@la;
+  alchem:references alchem:ualentinus .
+
+lat:ualoris rdf:type skos:Concept;
+  skos:prefLabel "ualoris"@la;
+  alchem:references alchem:ualoris .
+
+lat:uegetabilis rdf:type skos:Concept;
+  skos:prefLabel "uegetabilis"@la;
+  alchem:references alchem:uegetabilis .
+
+lat:uelitatio rdf:type skos:Concept;
+  skos:prefLabel "uelitatio"@la;
+  alchem:references alchem:uelitatio .
+
+lat:Venus rdf:type skos:Concept;
+  skos:prefLabel "Venus"@la;
+  alchem:references alchem:Venus .
+
+lat:uirgilius rdf:type skos:Concept;
+  skos:prefLabel "uirgilius"@la;
+  alchem:references alchem:uirgilius .
+
+lat:umidus rdf:type skos:Concept;
+  skos:prefLabel "umidus"@la;
+  alchem:references alchem:umidus .
+
+lat:ungaria rdf:type skos:Concept;
+  skos:prefLabel "ungaria"@la;
+  alchem:references alchem:ungaria .
+
+lat:urbs rdf:type skos:Concept;
+  skos:prefLabel "urbs"@la;
+  alchem:references alchem:urbs .
+
+lat:uterus rdf:type skos:Concept;
+  skos:prefLabel "uterus"@la;
+  alchem:references alchem:uterus .
+
+lat:utilitas rdf:type skos:Concept;
+  skos:prefLabel "utilitas"@la;
+  alchem:references alchem:utilitas .
+
+lat:uulcanus rdf:type skos:Concept;
+  skos:prefLabel "uulcanus"@la;
+  alchem:references alchem:uulcanus .
+
+lat:vanus rdf:type skos:Concept;
+  skos:prefLabel "vanus"@la;
+  alchem:references alchem:vanus .
+
+lat:vapor rdf:type skos:Concept;
+  skos:prefLabel "vapor"@la;
+  alchem:references alchem:vapor .
+
+lat:vaporo rdf:type skos:Concept;
+  skos:prefLabel "vaporo"@la;
+  alchem:references alchem:vapor .
+
+lat:varietas rdf:type skos:Concept;
+  skos:prefLabel "varietas"@la;
+  alchem:references alchem:varietas .
+
+lat:vasum rdf:type skos:Concept;
+  skos:prefLabel "vasum"@la;
+  alchem:references alchem:vasum .
+
+lat:vates rdf:type skos:Concept;
+  skos:prefLabel "vates"@la;
+  alchem:references alchem:vates .
+
+lat:vellus rdf:type skos:Concept;
+  skos:prefLabel "vellus"@la;
+  alchem:references alchem:vellus .
+
+lat:vena rdf:type skos:Concept;
+  skos:prefLabel "vena"@la;
+  alchem:references alchem:vena .
+
+lat:venenum rdf:type skos:Concept;
+  skos:prefLabel "venenum"@la;
+  alchem:references alchem:venenum .
+
+lat:venter rdf:type skos:Concept;
+  skos:prefLabel "venter"@la;
+  alchem:references alchem:venter .
+
+lat:ventriculus rdf:type skos:Concept;
+  skos:prefLabel "ventriculus"@la;
+  alchem:references alchem:ventriculus .
+
+lat:venus rdf:type skos:Concept;
+  skos:prefLabel "venus"@la;
+  alchem:references alchem:venus .
+
+lat:verbum rdf:type skos:Concept;
+  skos:prefLabel "verbum"@la;
+  alchem:references alchem:verbum .
+
+lat:veritas rdf:type skos:Concept;
+  skos:prefLabel "veritas"@la;
+  alchem:references alchem:veritas .
+
+lat:vermis rdf:type skos:Concept;
+  skos:prefLabel "vermis"@la;
+  alchem:references alchem:vermis .
+
+lat:vertex rdf:type skos:Concept;
+  skos:prefLabel "vertex"@la;
+  alchem:references alchem:vertex .
+
+lat:vestigium rdf:type skos:Concept;
+  skos:prefLabel "vestigium"@la;
+  alchem:references alchem:vestigium .
+
+lat:vestis rdf:type skos:Concept;
+  skos:prefLabel "vestis"@la;
+  alchem:references alchem:vestis .
+
+lat:via rdf:type skos:Concept;
+  skos:prefLabel "via"@la;
+  alchem:references alchem:via .
+
+lat:viginti rdf:type skos:Concept;
+  skos:prefLabel "viginti"@la;
+  alchem:references alchem:viginti .
+
+lat:vilis rdf:type skos:Concept;
+  skos:prefLabel "vilis"@la;
+  alchem:references alchem:vilis .
+
+lat:vinculum rdf:type skos:Concept;
+  skos:prefLabel "vinculum"@la;
+  alchem:references alchem:vinculum .
+
+lat:vinum rdf:type skos:Concept;
+  skos:prefLabel "vinum"@la;
+  alchem:references alchem:vinum .
+
+lat:violens rdf:type skos:Concept;
+  skos:prefLabel "violens"@la;
+  alchem:references alchem:violens .
+
+lat:virgo rdf:type skos:Concept;
+  skos:prefLabel "virgo"@la;
+  alchem:references alchem:virgo .
+
+lat:viridis rdf:type skos:Concept;
+  skos:prefLabel "viridis"@la;
+  alchem:references alchem:viridis .
+
+lat:virilis rdf:type skos:Concept;
+  skos:prefLabel "virilis"@la;
+  alchem:references alchem:virilis .
+
+lat:virtus rdf:type skos:Concept;
+  skos:prefLabel "virtus"@la;
+  alchem:references alchem:virtus .
+
+lat:vis rdf:type skos:Concept;
+  skos:prefLabel "vis"@la;
+  alchem:references alchem:vis .
+
+lat:viscera rdf:type skos:Concept;
+  skos:prefLabel "viscera"@la;
+  alchem:references alchem:viscera .
+
+lat:vita rdf:type skos:Concept;
+  skos:prefLabel "vita"@la;
+  alchem:references alchem:vita .
+
+lat:vitium rdf:type skos:Concept;
+  skos:prefLabel "vitium"@la;
+  alchem:references alchem:vitium .
+
+lat:vitrum rdf:type skos:Concept;
+  skos:prefLabel "vitrum"@la;
+  alchem:references alchem:vitrum .
+
+lat:vivus rdf:type skos:Concept;
+  skos:prefLabel "vivus"@la;
+  alchem:references alchem:vivus .
+
+lat:volatile rdf:type skos:Concept;
+  skos:prefLabel "volatile"@la;
+  alchem:references alchem:volatile .
+
+lat:volucris rdf:type skos:Concept;
+  skos:prefLabel "volucris"@la;
+  alchem:references alchem:volucris .
+
+lat:volumen rdf:type skos:Concept;
+  skos:prefLabel "volumen"@la;
+  alchem:references alchem:volumen .
+
+lat:voluntas rdf:type skos:Concept;
+  skos:prefLabel "voluntas"@la;
+  alchem:references alchem:voluntas .
+
+lat:vox rdf:type skos:Concept;
+  skos:prefLabel "vox"@la;
+  alchem:references alchem:vox .
+
+lat:vulgaris rdf:type skos:Concept;
+  skos:prefLabel "vulgaris"@la;
+  alchem:references alchem:vulgaris .
+
+lat:vultus rdf:type skos:Concept;
+  skos:prefLabel "vultus"@la;
+  alchem:references alchem:vultus .
+
+lat:xi rdf:type skos:Concept;
+  skos:prefLabel "xi"@la;
+  alchem:references alchem:xi .
+
+lat:zacharius rdf:type skos:Concept;
+  skos:prefLabel "zacharius"@la;
+  alchem:references alchem:zacharius .
+

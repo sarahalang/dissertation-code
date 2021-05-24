@@ -1,0 +1,351 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix :<https://glossa.uni-graz.at/context:alchem/> .
+
+:alchemicalConcept rdf:type skos:Concept .
+:person a skos:Concept .
+:place a skos:Concept .
+:object a skos:Concept .
+:book rdfs:subClassOf :object .
+:tool rdfs:subClassOf :object .
+
+:subject rdfs:subClassOf :alchemicalConcept .
+:alchemicalSymbol rdfs:subClassOf :subject .
+:alchemicalTerm rdfs:subClassOf :subject  .
+:astrologicalSign rdfs:subClassOf :alchemicalSymbol .
+:astrologicalSign :hasContext :contextAstrological .
+
+:theoreticalConcept rdfs:subClassOf :subject .
+:myth rdfs:subClassOf :theoreticalConcept .
+:alchemicalTheory rdfs:subClassOf :theoreticalConcept .
+:theoryOfTemperaments rdfs:subClassOf :theoreticalConcept .
+:theoryofElements rdfs:subClassOf :theoreticalConcept .
+:Paracelsianism rdfs:subClassOf :theoreticalConcept .
+
+
+:alchemicalContext a :alchemicalConcept .
+
+:contextAllegorical rdfs:subClassOf :alchemicalContext .
+:contextAstrological rdfs:subClassOf :alchemicalContext .
+:contextColours rdfs:subClassOf :alchemicalContext .
+:contextMetals rdfs:subClassOf :alchemicalContext .
+:contextPlanets rdfs:subClassOf :alchemicalContext .
+:contextChemical rdfs:subClassOf :alchemicalContext .
+:contextOperations rdfs:subClassOf :contextChemical .
+:contextAlchemicalTheory rdfs:subClassOf :alchemicalContext .
+
+:contextAlchemicalTradition rdfs:subClassOf :alchemicalContext .
+:contextMythological rdfs:subClassOf :alchemicalContext .
+:contextEthnographical rdfs:subClassOf :alchemicalContext .
+:contextHistorical rdfs:subClassOf :alchemicalContext .
+:contextTemperaments rdfs:subClassOf :alchemicalContext .
+:contextElements rdfs:subClassOf :alchemicalContext .
+:contextIatrochymia rdfs:subClassOf :alchemicalContext .
+:contextReligious rdfs:subClassOf :alchemicalContext .
+
+:religiousSymbol a :alchemicalConcept .
+:religiousSymbol :hasContext :contextReligious .
+
+
+
+:historicalActor rdfs:subClassOf :alchemicalSymbol .
+:historicalActor a :person .
+:historicalActor :hasContext :contextHistorical .
+
+:myth rdfs:subClassOf :alchemicalSymbol ;
+      :hasContext :contextMythological .
+:mythologicalFigure rdfs:subClassOf :myth ; a :person .
+:mythologicalObject rdfs:subClassOf :myth ; a :object .
+:mythologicalPlace rdfs:subClassOf :myth ; a :place .
+
+:animal rdfs:subClassOf :alchemicalSymbol .
+:animal :hasContext :contextAllegorical .
+:animal :hasContext :contextEthnographical .
+:alchemicalAuthority rdfs:subClassOf :historicalActor .
+:alchemicalTheory rdfs:subClassOf :theoreticalConcept .
+:alchemicalTheory :hasContext :contextAlchemicalTheory .
+:planet rdfs:subClassOf :alchemicalSymbol .
+:planet :hasContext :contextPlanets , :contextAstrological .
+:colour rdfs:subClassOf :chemicalProperty .
+:colour :hasContext :contextColours .
+
+:ethnographicalDescription rdfs:subClassOf :alchemicalSymbol .
+:ethnographicalDescription :hasContext :contextEthnographical .
+:element rdfs:subClassOf :alchemicalSymbol .
+:element :hasContext :contextElements .
+:element :subjectOf :theoryofElements .
+
+:subjectOf rdfs:subPropertyOf :hasAssociation .
+:subjectOf rdfs:domain :subject ; rdfs:range
+  :theoreticalConcept .
+:hasRelatedStory rdfs:subPropertyOf :hasAssociation .
+:hasRelatedStory rdfs:domain :myth ; rdfs:range :myth .
+:hasActor  rdfs:subPropertyOf :hasAssociation .
+:hasActor rdfs:domain :myth ; rdfs:range :mythologicalFigure .
+:hasPlace  rdfs:subPropertyOf :hasAssociation .
+:hasPlace rdfs:domain :myth ; rdfs:range :mythologicalPlace .
+:hasObject  rdfs:subPropertyOf :hasAssociation .
+:hasObject rdfs:domain :myth ; rdfs:range :mythologicalObject .
+:hasAttribute  rdfs:subPropertyOf :hasAssociation .
+:hasAttribute rdfs:domain :mythologicalFigure ; rdfs:range :mythologicalObject .
+
+:hasContext
+  a rdf:Property .
+:hasContext rdfs:domain :alchemicalSymbol ;
+            rdfs:domain :chemicalSubstance ;
+            rdfs:domain :theoreticalConcept ;
+            rdfs:domain :alchemicalTerm;
+            rdfs:range :alchemicalContext .
+
+:chemicalOperation a :alchemicalConcept .
+:chemicalSubstance a :alchemicalConcept .
+:chemicalSubstance :hasContext :contextOperations , :contextChemical .
+:chemicalOperation :hasContext :contextOperations .
+
+:alchemicalTheory a :alchemicalConcept .
+:theoreticalProperty a :alchemicalConcept .
+:theoreticalSubstance a :alchemicalConcept .
+:chemicalProperty a :alchemicalConcept .
+:metal rdfs:subClassOf :theoreticalSubstance , :chemicalSubstance .
+:metal :hasContext :contextMetals .
+
+
+:alchemicalTradition a :alchemicalConcept .
+:alchemicalCurrent rdfs:subClassOf :alchemicalTradition .
+:Iatrochymia rdfs:subClassOf :alchemicalCurrent .
+:Iatrochymia :hasContext :contextIatrochymia .
+:Paracelsianism rdfs:subClassOf :alchemicalCurrent .
+
+:theoricalProperty a :alchemicalConcept .
+:temperament rdfs:subClassOf :theoreticalProperty .
+:temperament :hasContext :contextTemperaments .
+:temperament :subjectOf :theoryOfTemperaments .
+
+:warm a  :temperament .
+:cold a :temperament .
+:dry a  :temperament .
+:wet a :temperament .
+:radicalMoisture a :alchemicalTheory .
+:radicalMoisture :subjectOf :theoryOfTemperaments .
+:innateHeat a :alchemicalTheory .
+:innateHeat :subjectOf :theoryOfTemperaments .
+
+:melancholic a :temperament ;
+             :hasElement :earth .
+:phlegmatic a :temperament ;
+            :hasElement :water .
+:sanguine a :temperament ;
+          :hasElement :air .
+:choleric a :temperament ;
+          :hasElement :fire .
+
+:earth a :element ;
+       :hasTemperament :cold ;
+       :hasTemperament :dry .
+:water a :element ;
+       :hasTemperament :cold ;
+       :hasTemperament :moist .
+:fire a :element ;
+      :hasTemperament :warm ;
+      :hasTemperament :dry .
+:air a :element ;
+     :hasTemperament :warm , :moist .
+:quintaEssentia a :element .
+
+:red a :colour .
+:green a :colour .
+:citrinitas a :colour .
+
+
+:chemicalProperty rdfs:domain :chemicalSubstance .
+:AtalantaFugiensIntro :partOf :AtalantaFugiens .
+
+:hasAssociation a rdf:Property .
+:partOf rdfs:subPropertyOf :hasAssociation .
+
+:hasLinkTo rdfs:subPropertyOf :hasAssociation .
+:childOf rdfs:subPropertyOf :hasLinkTo .
+
+:transformsTo rdfs:subPropertyOf :hasAssociation .
+
+:hasProperty rdfs:subPropertyOf :hasAssociation .
+
+:consistsOf rdfs:subPropertyOf :hasProperty .
+
+:hasChemicalProperty rdfs:subPropertyOf :hasProperty .
+:hasTheoreticalProperty rdfs:subPropertyOf :hasProperty .
+:tints rdfs:subPropertyOf :hasChemicalProperty .
+:madeOf rdfs:subPropertyOf :hasChemicalProperty .
+:hasTemperament rdfs:subPropertyOf :hasTheoreticalProperty .
+:hasTemperament rdfs:domain :alchemicalSymbol ;
+                rdfs:domain :chemicalProperty ;
+                rdfs:domain :chemicalSubstance ;
+                rdfs:range :temperament .
+:hasElement rdfs:subPropertyOf :hasTheoreticalProperty .
+:hasElement rdfs:domain :alchemicalSymbol ;
+            rdfs:domain :theoreticalProperty ;
+            rdfs:range :element .
+
+:hasChemicalProperty rdfs:domain :alchemicalConcept ;
+                     rdfs:range :chemicalProperty .
+:hasTheoreticalProperty rdfs:domain :alchemicalConcept ;
+                        rdfs:range :theoreticalProperty .
+
+:hasColour rdfs:subPropertyOf :hasChemicalProperty .
+:hasColour rdfs:domain :alchemicalSymbol ;
+           rdfs:domain :chemicalProperty ;
+           rdfs:range :colour .
+:givesColour rdfs:subPropertyOf :hasChemicalProperty .
+:givesColour rdfs:domain :alchemicalSymbol ;
+             rdfs:domain :chemicalProperty ;
+             rdfs:domain :chemicalSubstance ;
+             rdfs:range :colour .
+
+:coagulates rdfs:subPropertyOf :hasChemicalProperty .
+:coagulatio rdfs:subClassOf :chemicalOperation .
+:tigens rdfs:subClassOf :chemicalProperty .
+
+:tinctio rdfs:subClassOf :chemicalOperation .
+:tinctio :transformsTo :aurum .
+:tinctio :givesColour :citrinitas .
+
+:tinctura a :chemicalSubstance .
+:tinctura :hasColour :red .
+:tinctura :transformsTo :aurum .
+
+
+:myth rdfs:subClassOf :alchemicalSymbol ;
+      :hasContext :contextMythological .
+:mythologicalFigure rdfs:subClassOf :myth ; a :person .
+:mythologicalObject rdfs:subClassOf :myth ; a :object .
+:mythologicalPlace rdfs:subClassOf :myth ; a :place .
+
+:red :hasChemicalProperty :tinctio .
+
+:perfectio rdfs:subClassOf :chemicalProperty .
+:aurum :hasTheoreticalProperty :perfectio .
+:aurum :hasColour :citrinitas .
+
+:aurum a :chemicalSubstance .
+:aureus rdfs:subClassOf :aurum .
+
+:fixum rdfs:subPropertyOf :chemicalProperty .
+:agens rdfs:subPropertyOf :chemicalProperty .
+
+:elephas a :animal .
+:draco a :animal .
+:medicina :partOf :Iatrochymia .
+:medicinaPhilosophica :partOf :Iatrochymia .
+:medicinaPhilosophica :hasContext :contextAlchemicalTheory .
+:sanguis a :alchemicalSymbol ; a :chemicalSubstance ;
+         rdfs:label "cruor" .
+:sanguis :hasColour :red .
+
+:terreum :hasElement :earth.
+
+:Iason a :mythologicalFigure .
+:Apollo a :mythologicalFigure ; :hasLinkTo :Ladon .
+:Ladon a :mythologicalFigure ; a :draco .
+:MythologicalMercury :hasAttribute :caduceus .
+:caduceus a :mythologicalObject ;
+                :consistsOf :draco .
+:Aesculapius :childOf :Apollo ;
+             :hasAttribute :rodOfAsclepios .
+:rodOfAsclepios a :mythologicalObject ;
+                :consistsOf :draco .
+:Cadmos a :mythologicalFigure ;
+        :hasRelatedStory :draco .
+:vellusAureum a :mythologicalObject ;
+              :madeOf :aurum ;
+              :hasRelatedStory :Iason ;
+              :guardedBy :draco .
+:AtalantaAndHippomenesRace a :myth ;
+                           :partOf :AtalantaFugiensIntro ;
+                           :hasActor :Atalanta , :Hippomenes ;
+                           :hasObject :goldenApples .
+:gardenOfTheHesperides a :mythologicalPlace ;
+                       :hasRelatedStory :AtalantaAndHippomenesRace .
+:goldenApples a :mythologicalObject ;
+              :madeOf :aurum ;
+              :guardedBy :draco ;
+              :hasPlace :gardenOfTheHesperides ;
+              :hasRelatedStory :AtalantaAndHippomenesRace .
+
+
+:Mercurius a :alchemicalSymbol .
+:Sulphur a :alchemicalSymbol .
+:PhilosophicalMercury rdfs:subClassOf :Mercurius ;
+                      a :theoreticalSubstance .
+:PhilosophicalSulphur rdfs:subClassOf  :Sulphur ;
+                      a :theoreticalSubstance .
+:CommonMercury rdfs:subClassOf :Mercurius ;
+               a :chemicalSubstance .
+:hydrargyrum a :CommonMercury .
+:CommonSulphur rdfs:subClassOf :Sulphur ;
+               a :chemicalSubstance .
+
+:MythologicalMercury rdfs:subClassOf :Mercurius ;
+                     a :mythologicalFigure .
+:HermesTrismegistos rdfs:subClassOf :Mercurius ;
+                    a :alchemicalAuthority .
+
+:Saturnus a :alchemicalSymbol .
+:MythologicalSaturn rdfs:subClassOf :Saturnus ;
+                    a :mythologicalFigure .
+:PlanetSaturnus rdfs:subClassOf :Saturnus ;
+                a :planet .
+:ChemicalSaturnus rdfs:subClassOf :Saturnus ;
+                  a :chemicalSubstance .
+
+:plumbum rdfs:subClassOf :ChemicalSaturnus ;
+         a :metal .
+
+:Mars a :alchemicalSymbol .
+:MythologicalMars rdfs:subClassOf :Mars ;
+                  a :mythologicalFigure .
+:PlanetMars rdfs:subClassOf :Mars ;
+            a :planet .
+:ChemicalMars rdfs:subClassOf :Mars ;
+              a :chemicalSubstance .
+:ferrum a :metal ; rdfs:subClassOf :ChemicalMars .
+
+:Iupiter a :alchemicalSymbol .
+:MythologicalIupiter rdfs:subClassOf :Iupiter ;
+                     a :mythologicalFigure .
+:PlanetIupiter rdfs:subClassOf :Iupiter ;
+               a :planet .
+:ChemicalIupiter rdfs:subClassOf :Iupiter ;
+               a :chemicalSubstance .
+
+:stannum rdfs:subClassOf :ChemicalIupiter ;
+         a :metal .
+
+:Venus a :alchemicalSymbol .
+:MythologicalVenus rdfs:subClassOf :Venus ;
+                  a :mythologicalFigure .
+:PlanetVenus rdfs:subClassOf :Venus ;
+            a :planet .
+:ChemicalVenus rdfs:subClassOf :Venus ;
+              a :chemicalSubstance .
+:cuprum a :metal ; rdfs:subClassOf :ChemicalVenus .
+:aes rdfs:subClassOf :ChemicalVenus .
+
+:Luna a :alchemicalSymbol .
+:MythologicalLuna rdfs:subClassOf :Luna ;
+                  a :mythologicalFigure .
+:PlanetLuna rdfs:subClassOf :Luna ;
+            a :planet .
+:ChemicalLuna rdfs:subClassOf :Luna ;
+              a :chemicalSubstance .
+:argentum a :metal ; rdfs:subClassOf :ChemicalLuna .
+
+:Sol a :alchemicalSymbol .
+:MythologicalSol rdfs:subClassOf :Sol ;
+                 a :mythologicalFigure .
+:PlanetSol rdfs:subClassOf :Sol ;
+           a :planet .
+:ChemicalSol rdfs:subClassOf :Sol ;
+             a :chemicalSubstance .
+:aurum rdfs:subClassOf :ChemicalSol .
+:aurum a :metal .

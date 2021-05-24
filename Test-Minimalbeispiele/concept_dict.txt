@@ -1,0 +1,5 @@
+aurum,31,aura auri oris aurum auris auro aurorum
+aqua,1429,aquis aquarum aqua aquas aquam aquae
+tempus,1010,tempora tempori temporum tempore temporibus temporis tempus
+terra,1365,terra terris terrarum terrae terram terras
+draco,245,draconis draconem dracones draco draconibus dracone Draco draconi draconum
