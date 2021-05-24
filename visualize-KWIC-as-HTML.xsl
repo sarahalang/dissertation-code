@@ -38,7 +38,6 @@
     
     <xsl:template match ="term">
         <span style="background-color:coral;">
-            <!-- <xsl:value-of select="position()"/><xsl:text>) </xsl:text> -->
             <xsl:apply-templates/></span>
     </xsl:template>
     

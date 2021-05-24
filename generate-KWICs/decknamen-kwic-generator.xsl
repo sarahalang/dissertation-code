@@ -4,19 +4,11 @@
     exclude-result-prefixes="xs"
     version="2.0">
 
-    <!-- TODO add: Metadaten: aus welchem Buch kommt es (zB Maier.Arcana pp)
-         dazu schauen, wie das TEI ist, damit ich die verlässlich rauskriege -->
-
     <xsl:template match="/">
         <xsl:variable name="root" select="/"/>
-        <!-- TODO evtl dann im TEI statt root hier nur mehr ab body/text suchen
-             mit preceding sollte es nach aktuellem Code sein, dass er Hierarchiesprünge ignoriert,
-             aber am Ende trotzdem nur die Nodes und den Text kopiert, die gewählt wurden
-        -->
+
         <result>
-            <xsl:for-each select="//term"> <!-- TODO replace no and deckn with term
-                                                 weitere Frage: Wenn ich preceding-sibling durch preceding ersetze, kann ich auch Hierarchien behalten?
-                                                 andererseits müssen die im KWIC dann eh wahrsch weg, weil ggf Konflikte -->
+            <xsl:for-each select="//term">
                 <KWIC>
                     <xsl:attribute name="n">
                         <xsl:value-of select="normalize-space(.)"/>
@@ -79,8 +71,6 @@
                         <!-- the start and end nodes are set manually using copy-of
                              since intersect excludes those. This allowed for a cleaner solution. -->
                         <xsl:copy-of select="$kwicstart"></xsl:copy-of>
-                        <!-- geht nicht wie kriege ich den Text dazwischen
-                    ok offenbar nimmt * nur nodes.. nicht text.. dafür braucht man text()-->
                         
                         <xsl:copy-of select="( $root/$kwicstart/following-sibling::* | $root/$kwicstart/following-sibling::text() )
                             intersect
