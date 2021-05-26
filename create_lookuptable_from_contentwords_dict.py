@@ -16,17 +16,7 @@ CONTENT_WORD_FILE = 'concept_dict.txt'
 # ------------------------------------------------------------------------------
 
 corpus = readDirectoryAsCorpus("corpus")
-#corpus = corpus[0:400000]
-
 STOP_WORDS_LIST = getStopwords()
-
-
-#bow_dict, reduced_corpus = updateBagOfWordsFromString(corpus, STOP_WORDS_LIST, content_words)
-# ------------------------------------------------------------------------------
-
-#displayBowDictEntries(content_words)
-
-#freqDistHistogramForRemainingBowToDos(bow_dict)
 
 orderContentWordDict(CONTENT_WORD_FILE)
 content_words = readOneWordPerLineFileAsContentWordDict("content_words_ordered.txt")
