@@ -1,0 +1,148 @@
+lat:acies skos:prefLabel "steel"@en , "Stahl"@de .
+
+lat:admisceo skos:prefLabel "mixing in"@en , "beimischen"@de .
+lat:admixtio skos:prefLabel "mixture"@en , "Mischung"@de .
+
+lat:aeger skos:prefLabel "sick"@en , "krank"@de .
+lat:aegyptus skos:prefLabel "Egypt, Egyptian"@en , "Ägypten, ägyptisch"@de .
+
+lat:aenigma skos:prefLabel "riddle"@en , "Rätsel"@de .
+
+lat:aequalis skos:prefLabel "equal"@en , "gleichmäßig"@de .
+lat:aequus skos:prefLabel "equal"@en , "gleichmäßig"@de .
+lat:aequatio skos:prefLabel "equal distribution"@en , "Ausgleich"@de .
+
+lat:aer skos:prefLabel "air"@en , "Luft"@de .
+lat:aerius skos:prefLabel "airy, aerial"@en , "zur Luft gehörig"@de .
+
+lat:aes skos:prefLabel "copper, bronze, brass"@en , "Kupfer, Bronze, Messing"@de .
+lat:aerarius skos:prefLabel "copper, bronze"@en , "kupfern, bronzen"@de .
+
+lat:agnus skos:prefLabel "lamb"@en , "Lamm"@de .
+lat:ager skos:prefLabel "field, soil"@en , "Feld, Acker"@de .
+lat:albedo skos:prefLabel "whiteness"@en , "Weiß(ung)"@de .
+lat:albus skos:prefLabel "white"@en , "weiß"@de .
+
+lat:Alchemia skos:prefLabel "alchemy"@en , "Alchemie"@de .
+lat:alembicum skos:prefLabel "alembic"@en , "Alembik"@de .
+lat:alga skos:prefLabel "seaweed"@en , "Algen"@de .
+
+lat:allegoria skos:prefLabel "allegory"@en , "Allegorie"@de .
+lat:allegorica skos:prefLabel "allegorical"@en , "allegorisch"@de .
+lat:allegoricus skos:prefLabel "allegorical"@en , "allegorisch"@de .
+
+lat:alvus skos:prefLabel "stomach, womb, excrement"@en , "Unterleib, Rumpf, Magen, Exkremente"@de .
+lat:amor skos:prefLabel "love"@en , "Liebe"@de .
+lat:animal skos:prefLabel "animal"@en , "Tier"@de .
+lat:animacula skos:prefLabel "small animals"@en , "Tierchen"@de .
+lat:animalis skos:prefLabel "living, of living creatures"@en , "tierisch"@de .
+lat:anser skos:prefLabel "goose"@en , "Gans"@de .
+
+
+
+
+
+lat:bombyx skos:prefLabel "silkworm"@en , "Seidenraupe"@de .
+
+castor beaver Biber
+chalybs iron, steel
+
+chronicus pertaining to time, chronic
+cinis ashes Asche
+clava club - clavis, Schlüssel
+coccyx cuckoo/Teil der Wirbelsäule
+
+Colchi - Colcher Colchus
+
+concha - mussel, oyster, pearl
+
+cornus - cherry dogwood cornel Kirschfrucht
+cortex - Rinde, Haut
+
+cubiculum Räumle
+culter knife, razor
+cupella small cup
+
+cutis - skin, Rinde leather
+diluvium - flood
+equus horse
+
+facies face Gesicht complexion
+facultas ability skill
+
+fax torch, fireball, comet
+
+femur thigh (femor?)
+
+figmentum - figure formation figment
+flos - flower, ornament
+
+fodio - stab, dig up, mine
+frons - brow, forehead, coastline/extremity
+
+fumus - smoke, steam
+fundus - bottom, ground
+funus - funeral
+fusio - melting, casting, pouring out
+geminus - twin
+germino - sprout, embryo, germ seed
+
+glacies ice
+
+granum - grain seed
+
+juramentum oath
+lana wool
+libra - scales, balance Waage
+lignum - (fire) wood, tree
+
+linea - linen, flax
+linteus - leinen
+liquor - liquid, fluidity
+
+lucrum - gain
+paeonia - peony (pflanze?)
+
+pario gebähren
+pectus Brust
+pluma - feder
+
+psyllion - fleabane
+
+pulvis - dust, powder
+rana - frog
+
+regula - rule, bar ((??))
+reno - reindeer (skin)
+
+resina - resin, harz
+
+sagitta - arrowworm keystone arrow
+
+
+Reiner Solenander (1524-1601), Leuven Dutch
+
+spiculum - arrow, string Spieß
+
+spuo - spucken
+sterquilinium - dung heap
+
+syllogismus
+
+tenebra - darkness
+
+
+
+testis - testscherbe
+tigillum - small piece of wood, Tiegel (?)
+
+unguentum - ointment, perfume
+vermis - worm
+vestis - Kleidung
+vigor - vigor livelyness, strength
+
+viridis green - youthful, lively
+
+viscera - intestines, Eingeweide
+
+vitulus - bull calf 

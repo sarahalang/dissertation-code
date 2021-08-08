@@ -44,10 +44,6 @@ lat:aegyptus rdf:type skos:Concept;
   skos:prefLabel "aegyptus"@la;
   alchem:references alchem:aegyptus .
 
-lat:aelia rdf:type skos:Concept;
-  skos:prefLabel "aelia"@la;
-  alchem:references alchem:Aelia .
-
 lat:aenigma rdf:type skos:Concept;
   skos:prefLabel "aenigma"@la;
   alchem:references alchem:aenigma .
@@ -156,8 +152,8 @@ lat:america rdf:type skos:Concept;
   skos:prefLabel "america"@la;
   alchem:references alchem:america .
 
-lat:ammonem rdf:type skos:Concept;
-  skos:prefLabel "ammonem"@la;
+lat:ammon rdf:type skos:Concept;
+  skos:prefLabel "ammon"@la;
   alchem:references alchem:ammon .
 
 lat:amor rdf:type skos:Concept;
@@ -3915,4 +3911,3 @@ lat:Zacharius rdf:type skos:Concept;
 lat:zoophytum rdf:type skos:Concept;
   skos:prefLabel "zoophytum"@la;
   alchem:references alchem:zoophytum .
-

@@ -1,7 +1,7 @@
 import sys
 import os
 cwd = os.getcwd()
-dir_for_working_code = os.path.join(cwd, 'working-code')
+dir_for_working_code = os.path.join(cwd, 'custom-functions')
 sys.path.append(os.path.abspath(dir_for_working_code))
 # ------------------------------------------------------------------------------
 

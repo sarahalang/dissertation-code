@@ -2,3 +2,1133 @@ alchem:aes a
  TODO test
 alchem:achilles a :mythologicalFigure .
 
+alchem:Absynth a :chemicalSubstance .
+
+alchem:acies a :metal , :partOfNature , :chemicalSubstance .
+
+alchem:admixtio a :chemicalOperation , :chemicalProperty .
+
+alchem:aegritudo a :theoreticalConcept , :medicalConcept , :trait .
+
+alchem:Aelia a :place .
+
+alchem:aequalitas a :theoreticalConcept , :theoreticalProp .
+
+alchem:aequatio a :theoreticalProp , :theoreticalConcept .
+
+alchem:aer a :air , :chemicalSubstance .
+
+alchem:Aesculapius a :mythologicalFigure
+ TODO :hasContext :contextMedical
+ .
+
+alchem:ager a :partOfNature , :earth .
+
+alchem:alanus a :historicalActor
+ TODO Author?
+ .
+
+alchem:Albertus a :historicalActor
+ TODO author
+ .
+
+alchem:Alchemia a :theoreticalConcept
+ TODO current / tradition
+ .
+
+alchem:alembicum a :tool .
+
+alchem:alga a :vegetabilia .
+
+alchem:allegoria a :theoreticalConcept , :arcanum , :symbolicalConcept .
+
+alchem:alvus a :bodyPart , :medicalConcept .
+
+alchem:ammon a :mythologicalFigure , :historicalActor .
+
+alchem:amphio a :mythologicalFigure .
+
+alchem:anglia a :place
+ TODO nation/enlish
+ .
+
+alchem:anser a :animal .
+
+alchem:antrum a :partOfNature .
+
+alchem:apex a :partOfNature .
+
+alchem:Apollo a :mythologicalFigure .
+
+alchem:aqua a :water .
+
+alchem:Arabs a 
+ TODO nation
+alchem:arbitrium a :chemicalOperation .
+
+alchem:arca a :arcanum , :tool .
+
+alchem:arcanus a :arcanum .
+
+alchem:Aretmis a :mythologicalFigure .
+
+alchem:Argonautis a :mythologicalFigure .
+
+alchem:aries a :astrologicalSign , :animal .
+
+alchem:arithmetica a 
+ TODO science
+alchem:ars a 
+ TODO anderes Wort für alchemie
+alchem:arthritis a :disease , :medicalConcept
+ TODO medicalConcept
+ .
+
+alchem:arthritis a :medicalConcept .
+
+alchem:artifex a :alchemicalTradition , :person .
+
+alchem:arx a :place .
+
+alchem:astralis a :astrologicalSign
+ TODO astro concept
+ .
+
+alchem:astronomia a :astrologicalSign
+ TODO astro concept
+ .
+
+alchem:Athenae a :mythologicalFigure .
+
+alchem:atlas a :mythologicalFigure , :place .
+
+alchem:Augustinus a :historicalActor
+ TODO autor
+ .
+
+alchem:Auicenna a :historicalActor .
+
+alchem:aurifer a :aurum
+ TODO gold bearing d.h. evtl mythological
+ , :chemicalProperty .
+
+alchem:aurum a :metal , :chemicalProperty .
+
+alchem:avis a :animal , :bird .
+
+alchem:balneum a :chemicalOperation , :water , :symbolicalConcept .
+
+alchem:Basilius a :historicalActor
+ TODO German - author
+ .
+
+alchem:Bertius a :historicalActor .
+
+alchem:Aesculapius a :medicina .
+
+alchem:alanus a :author .
+
+alchem:Albertus a :author , :alchemicalAuthority .
+
+alchem:Alchemia a :alchemicalTradition .
+
+alchem:anglia a 
+ TODO nation, place
+alchem:Augustinus a :author .
+
+alchem:Auicenna a :author , :alchemicalAuthority .
+
+alchem:Basilius a :author , :alchemicalAuthority .
+
+alchem:Bertius a :author .
+
+alchem:bombyx a :animal , :chemicalSubstance .
+
+alchem:bos a :animal .
+
+alchem:brassica a :vegetabilia .
+
+alchem:butyrum a :chemicalSubstance .
+
+alchem:Cadmus a :mythologicalFigure .
+
+alchem:caelum a :partOfNature .
+
+alchem:caliditas a :theoreticalConcept , :theoreticalProp , :temperament .
+
+alchem:calumnia a 
+ TODO LÖSCHEN
+alchem:canis a :animal .
+
+alchem:capra a :animal .
+
+alchem:caries a :theoreticalProp , :chemicalProperty .
+
+alchem:caro a 
+ TODO food
+alchem:castor a :animal .
+
+alchem:catena a :theoreticalConcept , :symbolicalConcept .
+
+alchem:Celsitudo a :person , :historicalActor .
+
+alchem:Ceres a :mythologicalFigure .
+
+alchem:chalybs a :chemicalSubstance , :metal .
+
+alchem:Chymia a :alchemicalTradition .
+
+alchem:Christianus a :religiousFigure .
+
+alchem:chronicus a :medicalConcept , :theoreticalConcept .
+
+alchem:Chymia a :alchemicalTradition .
+
+alchem:cibinensis a :historicalActor
+ TODO nation
+ .
+
+alchem:cicero a :historicalActor , :author .
+
+alchem:cinis a :chemicalSubstance .
+
+alchem:Circe a :mythologicalFigure .
+
+alchem:clava a 
+ TODO correct to clavis Schlüssel
+alchem:clava a :symbolicalConcept , :arcanum .
+
+alchem:coagulatio a :chemicalProperty , :chemicalOperation .
+
+alchem:coccyx a :animal , :bodyPart .
+
+alchem:coelestis a :theoreticalConcept , :air .
+
+alchem:cognitio a :theoreticalConcept .
+
+alchem:Colchi a :person
+ TODO nation
+ .
+
+alchem:collegium a 
+ TODO entfernen
+alchem:columna a 
+ TODO entfernen
+alchem:combustibilis a :theoreticalProp , :chemicalProperty , :fire .
+
+alchem:cometa a 
+ TODO heaven,universe
+alchem:cometa a :partOfNature .
+
+alchem:commixtio a :theoreticalProp , :chemicalProperty , :chemicalOperation .
+
+alchem:compositio a :chemicalOperation , :chemicalProperty , :theoreticalProp .
+
+alchem:conceptio a :theoreticalConcept , :medicalConcept .
+
+alchem:concha a :animal
+ TODO zoopyth? zwischen vegetabilia und mineralia / object?
+ .
+
+alchem:condensatio a :chemicalOperation .
+
+alchem:congelatus a :chemicalOperation .
+
+alchem:conjunctio a :chemicalOperation , :medicalConcept , :theoreticalConcept .
+
+alchem:Conradus a :historicalActor .
+
+alchem:convenio a :theoreticalConcept .
+
+alchem:coquo a :chemicalOperation .
+
+alchem:cornus a :vegetabilia
+ TODO food, order ist es eig cornua das Horn?
+ .
+
+alchem:coronatio a :symbolicalConcept .
+
+alchem:corpus a :bodyPart , :theoreticalConcept , :medicalConcept .
+
+alchem:corruptio a :chemicalProperty .
+
+alchem:cortex a :bodyPart , :medicalConcept , :vegetabilia .
+
+alchem:crocus a :vegetabilia .
+
+alchem:cruor a :chemicalSubstance
+ TODO blood
+ .
+
+alchem:cubiculum a :place .
+
+alchem:culter a 
+ TODO x
+alchem:culter a :tool .
+
+alchem:cupella a :tool .
+
+alchem:cura a :medicalConcept .
+
+alchem:cutis a :bodyPart .
+
+alchem:daemon a :religiousConcept .
+
+alchem:democritus a :mythologicalFigure , :alchemicalAuthority .
+
+alchem:destructio a :theoreticalConcept , :chemicalOperation .
+
+alchem:diluvium a :partOfNature , :water .
+
+alchem:dionysius a :mythologicalFigure .
+
+alchem:distillatio a :chemicalOperation .
+
+alchem:dogma a :theoreticalConcept .
+
+alchem:dolor a :medicalConcept .
+
+alchem:duplex a :theoreticalConcept .
+
+alchem:durus a :chemicalProperty .
+
+alchem:ecclesia a :religiousConcept .
+
+alchem:efficacia a :theoreticalProp .
+
+alchem:electio a :theoreticalConcept .
+
+alchem:elementum a :theoreticalConcept .
+
+alchem:Eleusinia a 
+ TODO Eleusinian mysteries, religiöse Feste
+alchem:Eleusinia a :religiousConcept .
+
+alchem:elleborus a :vegetabilia .
+
+alchem:embryo a :bodyPart , :theoreticalConcept .
+
+alchem:ens a :theoreticalConcept .
+
+alchem:epigramma a 
+ TODO biblio ref? oder löschen
+alchem:episcopus a :religiousFigure .
+
+alchem:equus a :animal .
+
+alchem:essentia a :theoreticalConcept .
+
+alchem:eumolpus a :mythologicalFigure .
+
+alchem:Europa a :place , :mythologicalFigure .
+
+alchem:examen a :chemicalOperation .
+
+alchem:experientia a :theoreticalConcept .
+
+alchem:experimentum a :theoreticalConcept .
+
+alchem:extensio a :theoreticalProp , :chemicalProperty .
+
+alchem:extraho a :chemicalOperation .
+
+alchem:extremus a :theoreticalConcept .
+
+alchem:fabula a 
+ TODO myth
+alchem:facies a :bodyPart .
+
+alchem:facultas a 
+ TODO löschen
+alchem:faex a :chemicalSubstance .
+
+alchem:farina a :chemicalSubstance .
+
+alchem:fax a :fire .
+
+alchem:femor a :bodyPart
+ TODO femur thigh? oder anders Wort
+ .
+
+alchem:Fernel a :historicalActor , :author
+ TODO Arzt, Phsiology, Körperfunktionen (Auch alchemie?)
+ .
+
+alchem:ferrum a :metal .
+
+alchem:figmentum a :theoreticalConcept
+ TODO löschen?
+ .
+
+alchem:figura a :theoreticalConcept .
+
+alchem:fixio a :chemicalOperation , :chemicalProperty .
+
+alchem:flos a :vegetabilia .
+
+alchem:fluxio a :chemicalProperty .
+
+alchem:fodio a :chemicalOperation .
+
+alchem:folium a :vegetabilia .
+
+alchem:forma a :theoreticalConcept .
+
+alchem:formica a :animal .
+
+alchem:francia a :place
+ TODO nation
+ .
+
+alchem:fraternitas a :theoreticalConcept , :trait , :alchemicalTradition .
+
+alchem:Fridericus a :historicalActor .
+
+alchem:frigiditas a :chemicalProperty , :temperament .
+
+alchem:frons a :theoreticalConcept , :bodyPart .
+
+alchem:frux a :vegetabilia
+ TODO food
+ .
+
+alchem:fuga a :theoreticalConcept
+ TODO music
+ .
+
+alchem:fumus a :chemicalSubstance , :air .
+
+alchem:fundus a :earth .
+
+alchem:funus a 
+ TODO context Tod
+alchem:fusio a :chemicalOperation .
+
+alchem:galenus a :author , :historicalActor , :medicina
+ TODO medicalAuthority
+ .
+
+alchem:gallina a :animal
+ TODO hasGender :female
+ .
+
+alchem:geber a :author , :alchemicalAuthority
+ TODO arabs
+ .
+
+alchem:geminus a :theoreticalConcept
+ TODO :hasGender :neutrum
+ , :astrologicalSign .
+
+alchem:generatio a :chemicalOperation .
+
+alchem:gens a 
+ TODO ethnographical?
+alchem:geometria a 
+ TODO  science
+alchem:germanus a 
+ TODO nation
+alchem:germanus a :person .
+
+alchem:germino a 
+ TODO  correct to germen, seed
+alchem:germino a :vegetabilia , :theoreticalConcept .
+
+alchem:glacies a :partOfNature , :water .
+
+alchem:gradus a :chemicalOperation , :theoreticalConcept .
+
+alchem:graecia a :place
+ TODO nation
+ .
+
+alchem:granum a :vegetabilia , :theoreticalConcept .
+
+alchem:Guido a :historicalActor .
+
+alchem:haeretici a :religiousFigure .
+
+alchem:harlemenses a :person
+ TODO irgendwas mit Theologie, aber was ist das? rausnehmen
+ .
+
+alchem:helena a :mythologicalFigure .
+
+alchem:henricus a :historicalActor .
+
+alchem:herba a :vegetabilia .
+
+alchem:hermaphroditus a :theoreticalConcept
+ TODO :hasGender :neutrum
+ , :mythologicalFigure .
+
+alchem:hermetica a :arcanum .
+
+alchem:herodotus a :author , :historicalActor .
+
+alchem:hesperidum a :mythologicalFigure , :place , :mythologicalPlace
+ TODO remove place
+ .
+
+alchem:hieroglyphica a :symbolicalConcept , :arcanum
+ TODO nation egypt
+ .
+
+alchem:hippomenes a :mythologicalFigure .
+
+alchem:hispania a :place
+ TODO nation
+ .
+
+alchem:Holsatia a :place
+ TODO  nation german
+ .
+
+alchem:homo a :person
+ TODO :hasGender :male
+ .
+
+alchem:hora a :theoreticalConcept .
+
+alchem:hortus a :partOfNature , :vegetabilia .
+
+alchem:humanus a :theoreticalConcept , :person .
+
+alchem:humiditas a :temperament , :chemicalProperty .
+
+alchem:humo a :earth
+ TODO disambiguieren humus (boden) oder humare (beerdigen), dann Tod
+ .
+
+alchem:humus a :earth , :partOfNature .
+
+alchem:hystoriam a :theoreticalConcept .
+
+alchem:ignis a :fire .
+
+alchem:imaginatio a :theoreticalConcept .
+
+alchem:imago a :theoreticalConcept .
+
+alchem:immaturus a :theoreticalProp , :chemicalProperty .
+
+alchem:immoderatio a :theoreticalProp .
+
+alchem:impetus a :theoreticalProp .
+
+alchem:india a :place
+ TODO nation
+ .
+
+alchem:infirmus a :medicalConcept , :trait .
+
+alchem:ingredior a :chemicalOperation .
+
+alchem:intellectualis a :theoreticalProp .
+
+alchem:intemperantia a :theoreticalProp .
+
+alchem:intermedius a :theoreticalProp .
+
+alchem:interpretatio a :theoreticalConcept .
+
+alchem:introductio a :chemicalOperation .
+
+alchem:iohannes a :historicalActor .
+
+alchem:Iris a :mythologicalFigure .
+
+alchem:isidis a :mythologicalFigure , :alchemicalAuthority .
+
+alchem:italia a :place
+ TODO nation
+ .
+
+alchem:iupiter a :mythologicalFigure .
+
+alchem:juramentum a 
+ TODO entfernen
+alchem:labor a :chemicalOperation .
+
+alchem:lac a :chemicalSubstance
+ TODO raw material / food
+ .
+
+alchem:lamia a :mythologicalFigure
+ TODO :hasGender :female
+ .
+
+alchem:lana a 
+ TODO raw mateiral
+alchem:lapis a :partOfNature , :symbolicalConcept , :theoreticalConcept , :religiousConcept .
+
+alchem:leaena a :animal
+ TODO :hasGender :female / löwin
+ .
+
+alchem:lectio a :theoreticalConcept .
+
+alchem:leo a :animal
+ TODO :hasGender :male
+ .
+
+alchem:libra a :astrologicalSign , :tool .
+
+alchem:lignum a :partOfNature
+ TODO raw material, tree
+ , :vegetabilia .
+
+alchem:linea a :vegetabilia
+ TODO material
+ .
+
+alchem:linteus a :vegetabilia
+ TODO material
+ .
+
+alchem:liquor a 
+ TODO material
+alchem:liquor a :chemicalSubstance .
+
+alchem:locusta a :animal .
+
+alchem:Lotharingia a :place .
+
+alchem:lucrum a 
+ TODO evtl entfernen
+alchem:lucrum a :theoreticalConcept .
+
+alchem:lumen a :theoreticalConcept .
+
+alchem:lupus a :animal .
+
+alchem:lux a :theoreticalConcept .
+
+alchem:machina a :tool .
+
+alchem:magia a :arcanum , :religiousConcept , :theoreticalConcept .
+
+alchem:magisterius a :person .
+
+alchem:magnesia a :mineral , :place .
+
+alchem:malleus a :tool .
+
+alchem:mare a :water , :partOfNature .
+
+alchem:Mars a :mythologicalFigure .
+
+alchem:massa a :theoreticalConcept .
+
+alchem:materia a :theoreticalConcept .
+
+alchem:matrimonium a :theoreticalConcept , :symbolicalConcept .
+
+alchem:maturus a :theoreticalProp , :chemicalProperty , :trait .
+
+alchem:Medea a :mythologicalFigure .
+
+alchem:medicamentum a :medicina , :medicalConcept .
+
+alchem:medicina a :mythologicalFigure .
+
+alchem:mel a :chemicalSubstance
+ TODO materia food
+ .
+
+alchem:mensis a :theoreticalConcept .
+
+alchem:Mercurius a :mythologicalFigure , :historicalActor , :author , :alchemicalAuthority , :chemicalSubstance .
+
+alchem:metallicus a :chemicalProperty , :metal .
+
+alchem:Michael a :person , :historicalActor .
+
+alchem:minera a :mineral .
+
+alchem:mineralis a :mineral .
+
+alchem:miraculum a :religiousConcept , :arcanum .
+
+alchem:mixtio a :chemicalOperation , :chemicalProperty , :theoreticalProp .
+
+alchem:mons a :partOfNature , :mineral .
+
+alchem:morbificus a :mythologicalFigure , :medicalConcept
+ TODO entfernen mythol
+ , :theoreticalProp .
+
+alchem:morienus a :mythologicalFigure .
+
+alchem:mors a :medicalConcept .
+
+alchem:mulier a :person .
+
+alchem:mundus a :partOfNature .
+
+alchem:musica a :theoreticalConcept .
+
+alchem:mutatio a :chemicalOperation , :theoreticalConcept .
+
+alchem:mysterium a :arcanum , :religiousConcept .
+
+alchem:narcoticum a :medicalConcept , :chemicalSubstance .
+
+alchem:nauticus a :person , :water .
+
+alchem:neptunus a :mythologicalFigure , :water .
+
+alchem:neuter a :trait , :theoreticalProp .
+
+alchem:nigredo a :chemicalOperation , :chemicalProperty .
+
+alchem:nilus a :place
+ TODO egypt
+ , :water .
+
+alchem:noxius a :trait , :medicalConcept .
+
+alchem:nomen a :theoreticalConcept .
+
+alchem:nox a :theoreticalConcept .
+
+alchem:noxius a :medicalConcept .
+
+alchem:nucleus a :theoreticalConcept .
+
+alchem:numerus a :theoreticalConcept .
+
+alchem:nutrimentum a :medicalConcept , :theoreticalConcept .
+
+alchem:nympha a :mythologicalFigure .
+
+alchem:obscuritas a :theoreticalConcept , :arcanum .
+
+alchem:occasio a :theoreticalConcept .
+
+alchem:Oceanus a :water , :partOfNature , :mythologicalPlace .
+
+alchem:odor a :chemicalProperty .
+
+alchem:oleo a :chemicalProperty .
+
+alchem:operatio a :chemicalOperation .
+
+alchem:opium a :mythologicalFigure
+ TODO raw material
+ , :vegetabilia .
+
+alchem:opusculum a :book .
+
+alchem:ordo a :theoreticalProp .
+
+alchem:orpheus a :mythologicalFigure .
+
+alchem:Osiris a :mythologicalFigure , :alchemicalAuthority .
+
+alchem:ostrea a :animal , :water
+ TODO zoophyth?
+ .
+
+alchem:Ovid a :historicalActor , :author .
+
+alchem:paeonia a :vegetabilia .
+
+alchem:Pallas a :mythologicalFigure .
+
+alchem:papilio a :animal .
+
+alchem:pario a :medicalConcept .
+
+alchem:pater a :person
+ TODO :hasGender :make
+ .
+
+alchem:Paulus a :historicalActor , :religiousFigure .
+
+alchem:pectus a :bodyPart .
+
+alchem:pecus a :animal .
+
+alchem:Pelops a :mythologicalFigure .
+
+alchem:peregrinatio a :theoreticalConcept , :symbolicalConcept .
+
+alchem:perfectio a :symbolicalConcept , :chemicalProperty , :chemicalOperation .
+
+alchem:Perseus a :mythologicalFigure .
+
+alchem:pes a :bodyPart .
+
+alchem:Petrus a :person , :religiousFigure .
+
+alchem:philippus a :historicalActor .
+
+alchem:philosophia a :theoreticalConcept .
+
+alchem:philosophus a :theoreticalConcept .
+
+alchem:Phoenix a :animal , :symbolicalConcept , :religiousConcept .
+
+alchem:physica a :theoreticalConcept
+ TODO science
+ .
+
+alchem:pilula a :mythologicalFigure , :medicina , :medicalConcept
+ TODO entfernen mythol, food (?) medicamentum
+ .
+
+alchem:piscis a :animal , :astrologicalSign .
+
+alchem:planta a :partOfNature .
+
+alchem:Plato a :historicalActor , :author .
+
+alchem:pluma a :bird
+ TODO part of bird, naturgegenstand, animalia?
+ .
+
+alchem:pluto a :mythologicalFigure .
+
+alchem:podagra a :disease .
+
+alchem:poeta a :person .
+
+alchem:Polonia a :place
+ TODO nation
+ .
+
+alchem:pomum a :vegetabilia
+ TODO food 
+ .
+
+alchem:pontifex a :religiousFigure .
+
+alchem:porta a :symbolicalConcept , :symbolicalConcept , :symbolicalConcept .
+
+alchem:portus a :symbolicalConcept .
+
+alchem:potentia a :theoreticalProp .
+
+alchem:praxis a :chemicalOperation .
+
+alchem:preciosus a :theoreticalProp .
+
+alchem:probatio a :chemicalOperation .
+
+alchem:profundo a :chemicalOperation .
+
+alchem:prognostica a :chemicalOperation .
+
+alchem:Prometheus a :mythologicalFigure .
+
+alchem:Proserpina a :mythologicalFigure .
+
+alchem:pseudochymicus a :person .
+
+alchem:psyllion a :vegetabilia , :chemicalSubstance
+ TODO entfernen substance
+ .
+
+alchem:puer a :person
+ TODO :hasGender :male
+ .
+
+alchem:pulvis a :chemicalSubstance
+ TODO material
+ .
+
+alchem:purgatio a :chemicalOperation , :theoreticalConcept .
+
+alchem:putrefactio a :theoreticalConcept , :chemicalProperty .
+
+alchem:putridus a :chemicalProperty .
+
+alchem:pyrrha a :mythologicalFigure .
+
+alchem:Python a :mythologicalFigure , :animal .
+
+alchem:qualitas a :theoreticalConcept .
+
+alchem:quantitas a :theoreticalConcept .
+
+alchem:radix a :theoreticalConcept , :vegetabilia .
+
+alchem:rana a :animal .
+
+alchem:raritas a :theoreticalConcept .
+
+alchem:ratio a :theoreticalConcept .
+
+alchem:raymundus a :historicalActor , :author , :alchemicalAuthority .
+
+alchem:rediuiuus a :theoreticalConcept , :mythologicalFigure , :medicina , :medicalConcept
+ TODO entfernen medicina und mytholfig
+ .
+
+alchem:reformatio a :theoreticalConcept , :religiousConcept .
+
+alchem:regius a :theoreticalConcept .
+
+alchem:regula a :tool .
+
+alchem:religio a :religiousConcept .
+
+alchem:reno a :animal , :colour
+ TODO remove colour
+ .
+
+alchem:resina a :vegetabilia , :chemicalSubstance
+ TODO raw material
+ .
+
+alchem:rhabarb a :vegetabilia .
+
+alchem:rhea a :mythologicalFigure .
+
+alchem:Roma a :place
+ TODO nation rome
+ .
+
+alchem:Rondeletius a :historicalActor , :author
+ TODO Rondelet (Montpellier, anatomist, botanist)
+ .
+
+alchem:rosarius a :vegetabilia , :symbolicalConcept .
+
+alchem:rosinus a :historicalActor , :author
+ TODO Johannes Rosinus, Johann Rozfeld, Antiquitates
+ .
+
+alchem:rubeus a :colour .
+
+alchem:rudolphus a :historicalActor .
+
+alchem:saba a :mythologicalFigure .
+
+alchem:sacer a :religiousConcept .
+
+alchem:sacrificium a :religiousConcept .
+
+alchem:sagitta a :tool .
+
+alchem:salamandra a :animal , :symbolicalConcept .
+
+alchem:saluia a :vegetabilia .
+
+alchem:sanitas a :theoreticalConcept .
+
+alchem:Saracenus a :person
+ TODO nation
+ .
+
+alchem:Saxonia a :place .
+
+alchem:scientia a :theoreticalConcept .
+
+alchem:scriptio a :theoreticalConcept .
+
+alchem:semen a :theoreticalConcept , :vegetabilia , :chemicalSubstance .
+
+alchem:senex a :person .
+
+alchem:sensibiles a :theoreticalConcept .
+
+alchem:sensus a :theoreticalConcept .
+
+alchem:sensus a :theoreticalConcept .
+
+alchem:separatio a :theoreticalConcept , :chemicalOperation , :chemicalProperty .
+
+alchem:sepulcrum a :theoreticalConcept
+ TODO mors
+ .
+
+alchem:serpens a :animal .
+
+alchem:siccitas a :chemicalProperty , :temperament .
+
+alchem:siccus a :temperament , :theoreticalProp .
+
+alchem:sidera a :partOfNature .
+
+alchem:significo a :symbolicalConcept .
+
+alchem:similitudo a :theoreticalConcept .
+
+alchem:simplex a :theoreticalConcept .
+
+alchem:singularis a :theoreticalConcept .
+
+alchem:Socrates a :mythologicalFigure , :historicalActor .
+
+alchem:Solenander a :historicalActor , :author .
+
+alchem:solutio a :chemicalOperation , :theoreticalConcept .
+
+alchem:sophia a :theoreticalConcept .
+
+alchem:soror a :person
+ TODO :hasGender :female
+ .
+
+alchem:species a :theoreticalConcept .
+
+alchem:sperma a :theoreticalConcept , :chemicalSubstance .
+
+alchem:spiculum a :tool .
+
+alchem:spiritualis a :theoreticalConcept , :theoreticalProp .
+
+alchem:splendor a :theoreticalProp .
+
+alchem:spuo a :medicalConcept .
+
+alchem:stella a :partOfNature .
+
+alchem:sterquilinium a :chemicalSubstance .
+
+alchem:stomachus a :bodyPart .
+
+alchem:sublimatio a :chemicalOperation , :theoreticalConcept .
+
+alchem:sublunaris a :theoreticalConcept .
+
+alchem:subterraneus a :earth , :theoreticalConcept .
+
+alchem:sudor a :bodyPart , :medicalConcept , :chemicalSubstance .
+
+alchem:sulfur a :chemicalSubstance , :theoreticalConcept .
+
+alchem:superfluitas a :theoreticalConcept .
+
+alchem:supervenio a :chemicalOperation .
+
+alchem:syllogismus a :theoreticalConcept .
+
+alchem:symbola a :symbolicalConcept , :book .
+
+alchem:Tacitus a :historicalActor , :author .
+
+alchem:tartar a :chemicalSubstance .
+
+alchem:temperamentum a :theoreticalConcept , :temperament .
+
+alchem:temperies a :theoreticalProp
+ TODO verbindung zu temperaments
+ .
+
+alchem:tenebra a :arcanum .
+
+alchem:terra a :earth , :partOfNature .
+
+alchem:testis a :tool .
+
+alchem:Thebais a :book , :place , :symbolicalConcept .
+
+alchem:theorica a :theoreticalConcept .
+
+alchem:thetis a :mythologicalFigure .
+
+alchem:tigillum a :tool .
+
+alchem:titanes a :mythologicalFigure .
+
+alchem:tractatio a :theoreticalConcept .
+
+alchem:Triptolemus a :mythologicalFigure .
+
+alchem:trivius a :theoreticalConcept .
+
+alchem:tropus a :symbolicalConcept .
+
+alchem:tumor a :chemicalProperty , :medicalConcept , :theoreticalProp .
+
+alchem:Turca a :place
+ TODO nation
+ .
+
+alchem:Typhon a :mythologicalFigure , :animal
+ TODO draco wie auch Python
+ .
+
+alchem:Tyrus a :place .
+
+alchem:uas a :tool .
+
+alchem:uegetatiua a :theoreticalConcept .
+
+alchem:uiscosus a :chemicalProperty .
+
+alchem:Ulysses a :mythologicalFigure .
+
+alchem:unda a :water , :partOfNature .
+
+alchem:unguentum a :chemicalSubstance , :medicina .
+
+alchem:uomitio a :medicina , :medicalConcept , :disease .
+
+alchem:uterus a :bodyPart .
+
+alchem:uxor a :person .
+
+alchem:Valerius a :historicalActor .
+
+alchem:vanitas a :theoreticalConcept .
+
+alchem:vapor a :chemicalSubstance , :chemicalProperty , :theoreticalProp .
+
+alchem:vasum a :tool .
+
+alchem:vellus a :mythologicalObject .
+
+alchem:venenum a :chemicalSubstance , :medicalConcept , :chemicalProperty .
+
+alchem:Venetus a 
+ TODO nation
+alchem:Vergil a :author , :historicalActor
+ TODO romanus
+ .
+
+alchem:vermis a :animal .
+
+alchem:Vesta a :mythologicalFigure .
+
+alchem:vestis a :mythologicalObject , :chemicalSubstance
+ TODO substance entfernen
+ .
+
+alchem:via a :symbolicalConcept .
+
+alchem:vigor a :theoreticalConcept , :chemicalProperty , :theoreticalProp .
+
+alchem:vinum a :chemicalSubstance .
+
+alchem:violentia a :theoreticalProp .
+
+alchem:viridis a :colour , :theoreticalProp .
+
+alchem:virtus a :theoreticalProp , :medicalConcept , :chemicalProperty .
+
+alchem:viscera a :bodyPart , :medicalConcept .
+
+alchem:vita a :theoreticalConcept .
+
+alchem:vitulus a :animal .
+
+alchem:vocabulum a :theoreticalConcept .
+
+alchem:volucris a :bird .
+
+alchem:voluntas a :theoreticalProp .
+
+alchem:vulgaris a :theoreticalProp , :chemicalProperty .
+
+alchem:Zacharius a :person .
+
+alchem:Achilles a :mythologicalFigure .
+
+alchem:Adonis a :mythologicalFigure .
+
+alchem:aenigma a :theoreticalConcept .
+

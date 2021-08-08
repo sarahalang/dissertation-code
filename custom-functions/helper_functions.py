@@ -30,7 +30,7 @@ def readOneWordPerLineFileAsList(file_path):
 # ------------------------------------------------------------------------------
 def writeListAsOneWordPerLineFile(word_list, file_to_write_path):
     """
-    Accepts a list and the path to a `.txt` file where the list items will be sroted one per line.
+    Accepts a list and the path to a `.txt` file where the list items will be stored one per line.
     """
     file = open(file_to_write_path, "w+") # open file in overwrite mode
     words = [w for w in word_list if w != '']

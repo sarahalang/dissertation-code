@@ -1,0 +1,6 @@
+
+lat:aelia rdf:type skos:Concept;
+  skos:prefLabel "aelia"@la;
+  alchem:references alchem:Aelia .
+
+

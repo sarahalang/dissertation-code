@@ -18,8 +18,47 @@ TODO_FILE = 'kos_TODO.txt'
 # ------------------------------------------------------------------------------
 switchcase = {
     'a' : ':animal',
+    'au' : ':aurum',
+    'aut' : ':author',
+    'alchaut' : ':alchemicalAuthority',
+    'air' : ':air',
+    'arc' : ':arcanum',
+    'astro' : ':astrologicalSign',
+    'b' : ':bird',
+    'body' : ':bodyPart',
+    'book' : ':book',
+    'c' : ':colour',
+    'chemop' : ':chemicalOperation',
+    'chemprop' : ':chemicalProperty',
+    'd' : ':disease',
+    'e' : ':element',
+    'earth' : ':earth',
+    'f' : ':fire',
+    'h' : ':historicalActor',
     'm' : ':mythologicalFigure',
-    't' : ' TODO '
+    'med' : ':medicina',
+    'medc' : ':medicalConcept',
+    'metal' : ':metal',
+    'min' : ':mineral',
+    'n' : ':partOfNature',
+    'o' : ':mythologicalObject',
+    'pers' : ':person',
+    'place' : ':place',
+    'mplace' : ':mythologicalPlace',
+    'planet' : ':planet',
+    's' : ':chemicalSubstance',
+    'sym' : ':symbolicalConcept',
+    'relfig' : ':religiousFigure',
+    'r' : ':religiousConcept',
+    't' : ' TODO ',
+    'trad' : ':alchemicalTradition',
+    'theo' : ':theoreticalConcept',
+    'theoprop' : ':theoreticalProp',
+    'temp' : ':temperament',
+    'tool' : ':tool',
+    'trait' : ':trait',
+    'v' : ':vegetabilia',
+    'w' : ':water'
     } # this is an example, add more as you please
 
 # ------------------------------------------------------------------------------
@@ -28,7 +67,8 @@ def promptUserWithInfo(switchcase):
     print("x \t move on to next entry \t\t t \t to add TODO and a TODO message")
     print("q \t quit, left to do will be saved to " + TODO_FILE)
     for letter, concept in switchcase.items():
-        print(letter + " \t " + concept)
+        print(letter + " \t " + concept, end = ' \t\t ')
+    print()
 
 # ------------------------------------------------------------------------------
 def getUserInputForThesaurus(file, list_item, switchcase):
@@ -107,6 +147,9 @@ while concepts_list and running: # empty list is implicity boolean in python
         concepts_list.remove(entry)
 
 file.close()
+
+# write items left to process to TODO_FILE
+writeListAsOneWordPerLineFile(concepts_list, TODO_FILE)
 
 # ------------------------------------------------------------------------------
 # FINIS

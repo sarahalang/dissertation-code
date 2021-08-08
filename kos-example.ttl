@@ -15,9 +15,16 @@
 :alchemicalTerm rdfs:subClassOf :subject  .
 :astrologicalSign rdfs:subClassOf :alchemicalSymbol .
 :astrologicalSign :hasContext :contextAstrological .
+:gender rdfs:subClassOf :alchemicalConcept .
+:gender :hasContext :contextGender .
+:female rdfs:subClassOf :gender .
+:male rdfs:subClassOf :gender .
+:neutrum rdfs:subClassOf :gender .
+
 
 :theoreticalConcept rdfs:subClassOf :subject .
 :myth rdfs:subClassOf :theoreticalConcept .
+:symbolicalConcept rdfs:subClassOf :myth , :theoreticalConcept .
 :alchemicalTheory rdfs:subClassOf :theoreticalConcept .
 :theoryOfTemperaments rdfs:subClassOf :theoreticalConcept .
 :theoryofElements rdfs:subClassOf :theoreticalConcept .
@@ -27,9 +34,12 @@
 :alchemicalContext a :alchemicalConcept .
 
 :contextAllegorical rdfs:subClassOf :alchemicalContext .
+:contextArcanum rdfs:subClassOf :alchemicalContext .
 :contextAstrological rdfs:subClassOf :alchemicalContext .
+:contextGender rdfs:subClassOf :alchemicalContext .
 :contextColours rdfs:subClassOf :alchemicalContext .
 :contextMetals rdfs:subClassOf :alchemicalContext .
+:contextMinerals rdfs:subClassOf :alchemicalContext .
 :contextPlanets rdfs:subClassOf :alchemicalContext .
 :contextChemical rdfs:subClassOf :alchemicalContext .
 :contextOperations rdfs:subClassOf :contextChemical .
@@ -42,15 +52,20 @@
 :contextTemperaments rdfs:subClassOf :alchemicalContext .
 :contextElements rdfs:subClassOf :alchemicalContext .
 :contextIatrochymia rdfs:subClassOf :alchemicalContext .
+:contextMedicina rdfs:subClassOf :alchemicalContext .
+:contextVegetabilia rdfs:subClassOf :alchemicalContext .
+:contextNature rdfs:subClassOf :alchemicalContext .
 :contextReligious rdfs:subClassOf :alchemicalContext .
 
 :religiousSymbol a :alchemicalConcept .
 :religiousSymbol :hasContext :contextReligious .
-
+:religiousFigure a :person; :hasContext :contextReligious .
+:religiousConcept rdfs:subClassOf :religiousSymbol , :theoreticalConcept .
 
 
 :historicalActor rdfs:subClassOf :alchemicalSymbol .
 :historicalActor a :person .
+:author a :person .
 :historicalActor :hasContext :contextHistorical .
 
 :myth rdfs:subClassOf :alchemicalSymbol ;
@@ -59,9 +74,20 @@
 :mythologicalObject rdfs:subClassOf :myth ; a :object .
 :mythologicalPlace rdfs:subClassOf :myth ; a :place .
 
+:nature rdfs:subClassOf :alchemicalConcept ;
+        :hasContext :contextNature .
+:partOfNature rdfs:subClassOf :nature .
+
 :animal rdfs:subClassOf :alchemicalSymbol .
+:animal rdfs:subClassOf :nature .
 :animal :hasContext :contextAllegorical .
 :animal :hasContext :contextEthnographical .
+:bird rdfs:subClassOf animal .
+
+:vegetabilia rdfs:subClassOf :nature .
+:vegetabilia rdfs:subClassOf :nature ;
+                       :hasContext :contextIatrochymia , :contextVegetabilia .
+
 :alchemicalAuthority rdfs:subClassOf :historicalActor .
 :alchemicalTheory rdfs:subClassOf :theoreticalConcept .
 :alchemicalTheory :hasContext :contextAlchemicalTheory .
@@ -72,6 +98,25 @@
 
 :ethnographicalDescription rdfs:subClassOf :alchemicalSymbol .
 :ethnographicalDescription :hasContext :contextEthnographical .
+:nation rdfs:subClassOf :alchemicalSymbol .
+:nation :hasContext :contextEthnographical .
+:nation rdfs:subClassOf :alchemicalSymbol .
+:arab rdfs:subClassOf :nation .
+:german rdfs:subClassOf :nation .
+:french rdfs:subClassOf :nation .
+:italian rdfs:subClassOf :nation .
+:jewish rdfs:subClassOf :nation .
+:roman rdfs:subClassOf :nation .
+:greek rdfs:subClassOf :nation .
+:egyptian rdfs:subClassOf :nation .
+:hungarian rdfs:subClassOf :nation .
+:spanish rdfs:subClassOf :nation .
+:turkish rdfs:subClassOf :nation .
+:scottish rdfs:subClassOf :nation .
+:english rdfs:subClassOf :nation .
+:dutch rdfs:subClassOf :nation .
+:barbarian rdfs:subClassOf :nation .
+
 :element rdfs:subClassOf :alchemicalSymbol .
 :element :hasContext :contextElements .
 :element :subjectOf :theoryofElements .
@@ -104,11 +149,16 @@
 :chemicalOperation :hasContext :contextOperations .
 
 :alchemicalTheory a :alchemicalConcept .
+:arcanum a :alchemicalConcept ; :hasContext :contextArcanum .
 :theoreticalProperty a :alchemicalConcept .
 :theoreticalSubstance a :alchemicalConcept .
 :chemicalProperty a :alchemicalConcept .
 :metal rdfs:subClassOf :theoreticalSubstance , :chemicalSubstance .
 :metal :hasContext :contextMetals .
+
+:mineral rdfs:subClassOf :chemicalSubstance .
+:mineral rdfs:subClassOf :nature .
+:mineral :hasContext :contextMinerals .
 
 
 :alchemicalTradition a :alchemicalConcept .
@@ -118,6 +168,7 @@
 :Paracelsianism rdfs:subClassOf :alchemicalCurrent .
 
 :theoricalProperty a :alchemicalConcept .
+:trait rdfs:subClassOf :theoreticalProperty .
 :temperament rdfs:subClassOf :theoreticalProperty .
 :temperament :hasContext :contextTemperaments .
 :temperament :subjectOf :theoryOfTemperaments .
@@ -163,6 +214,10 @@
 
 :hasAssociation a rdf:Property .
 :partOf rdfs:subPropertyOf :hasAssociation .
+:hasGender rdfs:subPropertyOf :hasAssociation ; rdfs:domain :gender .
+
+
+:bodyPart :partOf :person ; :hasContext :contextIatrochymia .
 
 :hasLinkTo rdfs:subPropertyOf :hasAssociation .
 :childOf rdfs:subPropertyOf :hasLinkTo .
@@ -235,7 +290,11 @@
 
 :elephas a :animal .
 :draco a :animal .
+:medicalConcept rdfs:subClassOf :Iatrochymia , :theoreticalConcept .
 :medicina :partOf :Iatrochymia .
+:disease :subjectOf :medicina .
+
+:medicina :hasContext :contextMedicina .
 :medicinaPhilosophica :partOf :Iatrochymia .
 :medicinaPhilosophica :hasContext :contextAlchemicalTheory .
 :sanguis a :alchemicalSymbol ; a :chemicalSubstance ;

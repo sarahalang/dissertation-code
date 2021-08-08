@@ -12,8 +12,8 @@ def setupPrefixes(file):
     @prefix owl: <http://www.w3.org/2002/07/owl#> .
     @prefix dct: <http://purl.org/dc/terms/> .
     @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-    @prefix alchem: <https://glossa.uni-graz.at/context:alchem/> .
-    @prefix lat: <https://glossa.uni-graz.at/context:alchem/> .
+    @prefix alchem: <https://glossa.uni-graz.at/context:alchem/ontology> .
+    @prefix lat: <https://glossa.uni-graz.at/context:alchem/lat> .
     @prefix : <http://www.example.com/1/> .\n\n
     alchem:references a rdf:Property .\n\n
     """
