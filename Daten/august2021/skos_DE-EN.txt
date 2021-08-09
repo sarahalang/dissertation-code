@@ -39,10 +39,16 @@ lat:animalis skos:prefLabel "living, of living creatures"@en , "tierisch"@de .
 lat:anser skos:prefLabel "goose"@en , "Gans"@de .
 
 
-
+lat:Aelia skos:prefLabel "Aelia Capitolina (Jerusalem)"@en , "Aelia Capitolina (Jerusalem)"@de .
 
 
 lat:bombyx skos:prefLabel "silkworm"@en , "Seidenraupe"@de .
+
+
+
+Fernel  TODO Arzt, Phsiology, Körperfunktionen (Auch alchemie?)
+TODO Rondelet (Montpellier, anatomist, botanist)
+ TODO Johannes Rosinus, Johann Rozfeld, Antiquitates
 
 castor beaver Biber
 chalybs iron, steel
@@ -145,4 +151,4 @@ viridis green - youthful, lively
 
 viscera - intestines, Eingeweide
 
-vitulus - bull calf 
+vitulus - bull calf

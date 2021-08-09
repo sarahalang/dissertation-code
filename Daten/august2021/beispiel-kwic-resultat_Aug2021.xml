@@ -1,0 +1,23 @@
+ <KWIC n="Saturno" xml:id="saturnus-62ed19e">
+  <debugOutput> variable test: values before 7 , values after 7 -- medicinam medicinam </debugOutput>
+  <TEXT><term ana="medicina" xml:id="medicina-a66ab57"> medicinam </term>
+   <term ana="philosophia" xml:id="philosophia-e33563e"> phi¬ <lb/> losophicam </term> assumitur ,
+   oportet quem probè agnoscere , ne <pb n="pdf-58" xml:id="img_0058"/>
+   <pb n="orig-56"/> terreum quid , seu ex <term ana="terra" xml:id="terra-5cf5abe"> terrae </term>
+   <term ana="fundus" xml:id="fundus-f6fc211"> fundo </term> depromptum , aut aliud <lb/> haud <term
+    ana="convenio" xml:id="convenio-1e4c65d"> conveniens </term> in ejus <term ana="locus"
+    xml:id="locus-196fb8a"> locum </term> substituat . Est autem ex <lb/> eo <term ana="genus"
+    xml:id="genus-ff8b2d3"> genere </term> , quod <term ana="saturnus" xml:id="saturnus-62ed19e">
+    Saturno </term> , <term ana="apollo" xml:id="apollo-c7acc71"> Apollini </term> , Aesculapio
+   &amp; <term ana="mercurius" xml:id="mercurius-3e79828"> Mercurio </term>
+   <lb/> asscribitur , quod <term ana="cadmi" xml:id="cadmi-4738785"> Cadmi </term> socios
+   interfecit , &amp; ab eo interfe¬ <lb/> ctum , quod <term ana="vellus" xml:id="vellus-c2cf618">
+    vellus </term>
+   <term ana="aurum" xml:id="aurum-80eb74d"> aureum </term> observavit , quod <term ana="pomum"
+    xml:id="pomum-55bb29f"> pomis </term>
+   <term ana="aurum" xml:id="aurum-80eb74d"> aureis </term></TEXT>
+  <result>
+   <termsInKWIC/>
+  </result>
+  <log xml:space="preserve"/>
+ </KWIC>

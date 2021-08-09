@@ -98,10 +98,11 @@
 :animal rdfs:subClassOf :nature .
 :animal :hasContext :contextAllegorical .
 :animal :hasContext :contextEthnographical .
-:bird rdfs:subClassOf :animal .
+:bird rdfs:subClassOf animal .
 
+:vegetabilia rdfs:subClassOf :nature .
 :vegetabilia rdfs:subClassOf :nature ;
-            :hasContext :contextIatrochymia , :contextVegetabilia .
+                       :hasContext :contextIatrochymia , :contextVegetabilia .
 
 :alchemicalAuthority rdfs:subClassOf :historicalActor .
 :alchemicalTheory rdfs:subClassOf :theoreticalConcept .
@@ -320,8 +321,7 @@
 :scientia rdfs:subClassOf :alchemicalConcept .
 :scientia :hasContext :contextScientia .
 :ars rdfs:subClassOf :alchemicalConcept .
-:Alchemia a :theoreticalConcept , :alchemicalTradition .
-:ars :hasContext :contextArtes ; :references :Alchemia, :Chymia .
+:ars :hasContext :contextArtes , :references :Alchemia, :Chymia .
 
 :medicina rdfs:subClassOf :alchemicalConcept .
 :medicina :hasContext :contextMedicina .
@@ -484,6 +484,8 @@
 
 :Albertus a :historicalActor , :author , :alchemicalAuthority , :german .
 
+:Alchemia a :theoreticalConcept , :alchemicalTradition .
+
 :alembicum a :tool, :container .
 
 :alga a :vegetabilia , :consumable .
@@ -542,7 +544,7 @@
 
 :Augustinus a :historicalActor , :author , :roman .
 
-:Auicenna a :historicalActor , :author , :alchemicalAuthority , :arab .
+:Auicenna a :historicalActor , :author , :alchemicalAuthority :arab .
 
 :aurifer a :chemicalProperty , :theoreticalProperty ; :hasAssociation :aurum .
 
@@ -554,6 +556,9 @@
 
 :Bertius a :historicalActor , :author, :dutch .
 
+
+:Alchemia a :alchemicalTradition .
+
 :bombyx a :animal , :chemicalSubstance .
 
 :bos a :animal .
@@ -564,7 +569,7 @@
 
 :Cadmus a :mythologicalFigure .
 
-:caelum a :partOfNature , :astronomia .
+:caelum a :partOfNature ; :astronomia .
 
 :caliditas a :theoreticalConcept , :theoreticalProperty , :temperament .
 
@@ -776,7 +781,8 @@
 
 :galenus a :author , :historicalActor , :medicalAuthority, :greek .
 
-:gallina a :animal ; :hasGender :female .
+
+:gallina a :animal ; hasGender :female .
 
 :geber a :author , :alchemicalAuthority, :arab .
 
@@ -1377,3 +1383,5 @@
 :Zacharius a :person .
 
 :zoophytum a :animal , :vegetabilia .
+
+

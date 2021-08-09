@@ -44,6 +44,10 @@ lat:aegyptus rdf:type skos:Concept;
   skos:prefLabel "aegyptus"@la;
   alchem:references alchem:aegyptus .
 
+lat:Aelia rdf:type skos:Concept;
+  skos:prefLabel "Aelia"@la;
+  alchem:references alchem:Aelia .
+
 lat:aenigma rdf:type skos:Concept;
   skos:prefLabel "aenigma"@la;
   alchem:references alchem:aenigma .
@@ -219,6 +223,10 @@ lat:Apollonius rdf:type skos:Concept;
 lat:aqua rdf:type skos:Concept;
   skos:prefLabel "aqua"@la;
   alchem:references alchem:aqua .
+
+lat:aquarius rdf:type skos:Concept;
+  skos:prefLabel "aquarius"@la;
+  alchem:references alchem:aquarius .
 
 lat:aquila rdf:type skos:Concept;
   skos:prefLabel "aquila"@la;
@@ -488,14 +496,6 @@ lat:calor rdf:type skos:Concept;
   skos:prefLabel "calor"@la;
   alchem:references alchem:calor .
 
-lat:calumnia rdf:type skos:Concept;
-  skos:prefLabel "calumnia"@la;
-  alchem:references alchem:calumnia .
-
-lat:calumniator rdf:type skos:Concept;
-  skos:prefLabel "calumniator"@la;
-  alchem:references alchem:calumnia .
-
 lat:calx rdf:type skos:Concept;
   skos:prefLabel "calx"@la;
   alchem:references alchem:calx .
@@ -503,6 +503,14 @@ lat:calx rdf:type skos:Concept;
 lat:campana rdf:type skos:Concept;
   skos:prefLabel "campana"@la;
   alchem:references alchem:campana .
+
+lat:cancer rdf:type skos:Concept;
+  skos:prefLabel "cancer"@la;
+  alchem:references alchem:cancer .
+
+lat:capricornus rdf:type skos:Concept;
+  skos:prefLabel "capricornus"@la;
+  alchem:references alchem:capricornus .
 
 lat:canis rdf:type skos:Concept;
   skos:prefLabel "canis"@la;
@@ -640,9 +648,9 @@ lat:claustra rdf:type skos:Concept;
   skos:prefLabel "claustra"@la;
   alchem:references alchem:claustra .
 
-lat:clava rdf:type skos:Concept;
-  skos:prefLabel "clava"@la;
-  alchem:references alchem:clava .
+lat:clavis rdf:type skos:Concept;
+  skos:prefLabel "clavis"@la;
+  alchem:references alchem:clavis .
 
 lat:clavus rdf:type skos:Concept;
   skos:prefLabel "clavus"@la;
@@ -688,17 +696,13 @@ lat:collatio rdf:type skos:Concept;
   skos:prefLabel "collatio"@la;
   alchem:references alchem:collatio .
 
-lat:collegium rdf:type skos:Concept;
-  skos:prefLabel "collegium"@la;
-  alchem:references alchem:collegium .
-
 lat:color rdf:type skos:Concept;
   skos:prefLabel "color"@la;
   alchem:references alchem:color .
 
-lat:columna rdf:type skos:Concept;
-  skos:prefLabel "columna"@la;
-  alchem:references alchem:columna .
+lat:columba rdf:type skos:Concept;
+  skos:prefLabel "columba"@la;
+  alchem:references alchem:columba .
 
 lat:comburens rdf:type skos:Concept;
   skos:prefLabel "comburens"@la;
@@ -794,7 +798,7 @@ lat:conversio rdf:type skos:Concept;
 
 lat:coquo rdf:type skos:Concept;
   skos:prefLabel "coquo"@la;
-  alchem:references alchem:coquo .
+  alchem:references alchem:coctio .
 
 lat:cor rdf:type skos:Concept;
   skos:prefLabel "cor"@la;
@@ -1048,10 +1052,6 @@ lat:epicyclus rdf:type skos:Concept;
   skos:prefLabel "epicyclus"@la;
   alchem:references alchem:epicyclus .
 
-lat:epigramma rdf:type skos:Concept;
-  skos:prefLabel "epigramma"@la;
-  alchem:references alchem:epigramma .
-
 lat:epilepsia rdf:type skos:Concept;
   skos:prefLabel "epilepsia"@la;
   alchem:references alchem:epilepsia .
@@ -1159,10 +1159,6 @@ lat:facies rdf:type skos:Concept;
 lat:facinus rdf:type skos:Concept;
   skos:prefLabel "facinus"@la;
   alchem:references alchem:facinus .
-
-lat:facultas rdf:type skos:Concept;
-  skos:prefLabel "facultas"@la;
-  alchem:references alchem:facultas .
 
 lat:faetus rdf:type skos:Concept;
   skos:prefLabel "faetus"@la;
@@ -1448,10 +1444,6 @@ lat:genero rdf:type skos:Concept;
   skos:prefLabel "genero"@la;
   alchem:references alchem:generatio .
 
-lat:gens rdf:type skos:Concept;
-  skos:prefLabel "gens"@la;
-  alchem:references alchem:gens .
-
 lat:genus rdf:type skos:Concept;
   skos:prefLabel "genus"@la;
   alchem:references alchem:genus .
@@ -1472,9 +1464,9 @@ lat:germanus rdf:type skos:Concept;
   skos:prefLabel "germanus"@la;
   alchem:references alchem:germanus .
 
-lat:germino rdf:type skos:Concept;
-  skos:prefLabel "germino"@la;
-  alchem:references alchem:germino .
+lat:germen rdf:type skos:Concept;
+  skos:prefLabel "germen"@la;
+  alchem:references alchem:germen .
 
 lat:Geryon rdf:type skos:Concept;
   skos:prefLabel "Geryon"@la;
@@ -1840,10 +1832,6 @@ lat:juniperus rdf:type skos:Concept;
   skos:prefLabel "juniperus"@la;
   alchem:references alchem:juniperus .
 
-lat:juramentum rdf:type skos:Concept;
-  skos:prefLabel "juramentum"@la;
-  alchem:references alchem:juramentum .
-
 lat:labor rdf:type skos:Concept;
   skos:prefLabel "labor"@la;
   alchem:references alchem:labor .
@@ -1967,10 +1955,6 @@ lat:Lotharingia rdf:type skos:Concept;
 lat:Lucius rdf:type skos:Concept;
   skos:prefLabel "Lucius"@la;
   alchem:references alchem:Lucius .
-
-lat:lucrum rdf:type skos:Concept;
-  skos:prefLabel "lucrum"@la;
-  alchem:references alchem:lucrum .
 
 lat:Lull rdf:type skos:Concept;
   skos:prefLabel "Lull"@la;
@@ -3108,6 +3092,10 @@ lat:sagitta rdf:type skos:Concept;
   skos:prefLabel "sagitta"@la;
   alchem:references alchem:sagitta .
 
+lat:sagittarius rdf:type skos:Concept;
+  skos:prefLabel "sagittarius"@la;
+  alchem:references alchem:sagittarius .
+
 lat:sal rdf:type skos:Concept;
   skos:prefLabel "sal"@la;
   alchem:references alchem:sal .
@@ -3155,6 +3143,10 @@ lat:saxum rdf:type skos:Concept;
 lat:scientia rdf:type skos:Concept;
   skos:prefLabel "scientia"@la;
   alchem:references alchem:scientia .
+
+lat:scorpio rdf:type skos:Concept;
+  skos:prefLabel "scorpio"@la;
+  alchem:references alchem:scorpio .
 
 lat:Scotia rdf:type skos:Concept;
   skos:prefLabel "Scotia"@la;
